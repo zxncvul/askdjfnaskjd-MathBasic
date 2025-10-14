@@ -1,0 +1,3138 @@
+[
+  {
+    "bote": 2,
+    "apuesta": 1,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 2,
+    "apuesta": 1,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 2,
+    "apuesta": 1,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 2,
+    "apuesta": 1,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 2,
+    "apuesta": 1,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 2,
+    "apuesta": 1,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 2,
+    "apuesta": 1,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 2,
+    "apuesta": 1,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 2,
+    "apuesta": 2,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 2,
+    "apuesta": 2,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 2,
+    "apuesta": 2,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 2,
+    "apuesta": 2,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 2,
+    "apuesta": 3,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 2,
+    "apuesta": 3,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 2,
+    "apuesta": 4,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 2,
+    "apuesta": 4,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 4,
+    "apuesta": 1,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 4,
+    "apuesta": 1,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 4,
+    "apuesta": 1,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 4,
+    "apuesta": 1,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 4,
+    "apuesta": 2,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 4,
+    "apuesta": 2,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 4,
+    "apuesta": 3,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 4,
+    "apuesta": 3,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 4,
+    "apuesta": 3,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 4,
+    "apuesta": 3,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 4,
+    "apuesta": 4,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 4,
+    "apuesta": 4,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 4,
+    "apuesta": 6,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 4,
+    "apuesta": 6,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 4,
+    "apuesta": 8,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 4,
+    "apuesta": 8,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 6,
+    "apuesta": 2,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 6,
+    "apuesta": 2,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 6,
+    "apuesta": 2,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 6,
+    "apuesta": 2,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 6,
+    "apuesta": 3,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 6,
+    "apuesta": 3,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 6,
+    "apuesta": 4,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 6,
+    "apuesta": 4,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 6,
+    "apuesta": 5,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 6,
+    "apuesta": 5,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 6,
+    "apuesta": 6,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 6,
+    "apuesta": 6,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 6,
+    "apuesta": 9,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 6,
+    "apuesta": 9,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 6,
+    "apuesta": 12,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 6,
+    "apuesta": 12,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 8,
+    "apuesta": 2,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 8,
+    "apuesta": 2,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 8,
+    "apuesta": 3,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 8,
+    "apuesta": 3,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 8,
+    "apuesta": 4,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 8,
+    "apuesta": 4,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 8,
+    "apuesta": 5,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 8,
+    "apuesta": 5,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 8,
+    "apuesta": 6,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 8,
+    "apuesta": 6,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 8,
+    "apuesta": 8,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 8,
+    "apuesta": 8,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 8,
+    "apuesta": 12,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 8,
+    "apuesta": 12,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 8,
+    "apuesta": 16,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 8,
+    "apuesta": 16,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 10,
+    "apuesta": 3,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 10,
+    "apuesta": 3,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 10,
+    "apuesta": 3,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 10,
+    "apuesta": 3,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 10,
+    "apuesta": 5,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 10,
+    "apuesta": 5,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 10,
+    "apuesta": 7,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 10,
+    "apuesta": 7,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 10,
+    "apuesta": 8,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 10,
+    "apuesta": 8,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 10,
+    "apuesta": 10,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 10,
+    "apuesta": 10,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 10,
+    "apuesta": 15,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 10,
+    "apuesta": 15,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 10,
+    "apuesta": 20,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 10,
+    "apuesta": 20,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "2-10",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 12,
+    "apuesta": 3,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 12,
+    "apuesta": 3,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 12,
+    "apuesta": 4,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 12,
+    "apuesta": 4,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 12,
+    "apuesta": 6,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 12,
+    "apuesta": 6,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 12,
+    "apuesta": 8,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 12,
+    "apuesta": 8,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 12,
+    "apuesta": 9,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 12,
+    "apuesta": 9,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 12,
+    "apuesta": 12,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 12,
+    "apuesta": 12,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 12,
+    "apuesta": 18,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 12,
+    "apuesta": 18,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 12,
+    "apuesta": 24,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 12,
+    "apuesta": 24,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 15,
+    "apuesta": 4,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 15,
+    "apuesta": 4,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 15,
+    "apuesta": 5,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 15,
+    "apuesta": 5,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 15,
+    "apuesta": 8,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 15,
+    "apuesta": 8,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 15,
+    "apuesta": 10,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 15,
+    "apuesta": 10,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 15,
+    "apuesta": 11,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 15,
+    "apuesta": 11,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 15,
+    "apuesta": 15,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 15,
+    "apuesta": 15,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 15,
+    "apuesta": 23,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 15,
+    "apuesta": 23,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 15,
+    "apuesta": 30,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 15,
+    "apuesta": 30,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 20,
+    "apuesta": 5,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 20,
+    "apuesta": 5,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 20,
+    "apuesta": 7,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 20,
+    "apuesta": 7,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 20,
+    "apuesta": 10,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 20,
+    "apuesta": 10,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 20,
+    "apuesta": 13,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 20,
+    "apuesta": 13,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 20,
+    "apuesta": 15,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 20,
+    "apuesta": 15,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 20,
+    "apuesta": 20,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 20,
+    "apuesta": 20,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 20,
+    "apuesta": 30,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 20,
+    "apuesta": 30,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 20,
+    "apuesta": 40,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 20,
+    "apuesta": 40,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 25,
+    "apuesta": 6,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 25,
+    "apuesta": 6,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 25,
+    "apuesta": 8,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 25,
+    "apuesta": 8,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 25,
+    "apuesta": 13,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 25,
+    "apuesta": 13,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 25,
+    "apuesta": 17,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 25,
+    "apuesta": 17,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 25,
+    "apuesta": 19,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 25,
+    "apuesta": 19,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 25,
+    "apuesta": 25,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 25,
+    "apuesta": 25,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 25,
+    "apuesta": 38,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 25,
+    "apuesta": 38,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 25,
+    "apuesta": 50,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 25,
+    "apuesta": 50,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 30,
+    "apuesta": 7,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 30,
+    "apuesta": 7,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 30,
+    "apuesta": 10,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 30,
+    "apuesta": 10,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 30,
+    "apuesta": 15,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 30,
+    "apuesta": 15,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 30,
+    "apuesta": 20,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 30,
+    "apuesta": 20,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 30,
+    "apuesta": 23,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 30,
+    "apuesta": 23,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 30,
+    "apuesta": 30,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 30,
+    "apuesta": 30,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 30,
+    "apuesta": 45,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 30,
+    "apuesta": 45,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 30,
+    "apuesta": 60,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 30,
+    "apuesta": 60,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "12-30",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 35,
+    "apuesta": 9,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 35,
+    "apuesta": 9,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 35,
+    "apuesta": 12,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 35,
+    "apuesta": 12,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 35,
+    "apuesta": 18,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 35,
+    "apuesta": 18,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 35,
+    "apuesta": 23,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 35,
+    "apuesta": 23,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 35,
+    "apuesta": 26,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 35,
+    "apuesta": 26,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 35,
+    "apuesta": 35,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 35,
+    "apuesta": 35,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 35,
+    "apuesta": 53,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 35,
+    "apuesta": 53,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 35,
+    "apuesta": 70,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 35,
+    "apuesta": 70,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 40,
+    "apuesta": 10,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 40,
+    "apuesta": 10,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 40,
+    "apuesta": 13,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 40,
+    "apuesta": 13,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 40,
+    "apuesta": 20,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 40,
+    "apuesta": 20,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 40,
+    "apuesta": 27,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 40,
+    "apuesta": 27,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 40,
+    "apuesta": 30,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 40,
+    "apuesta": 30,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 40,
+    "apuesta": 40,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 40,
+    "apuesta": 40,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 40,
+    "apuesta": 60,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 40,
+    "apuesta": 60,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 40,
+    "apuesta": 80,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 40,
+    "apuesta": 80,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 45,
+    "apuesta": 11,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 45,
+    "apuesta": 11,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 45,
+    "apuesta": 15,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 45,
+    "apuesta": 15,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 45,
+    "apuesta": 23,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 45,
+    "apuesta": 23,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 45,
+    "apuesta": 30,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 45,
+    "apuesta": 30,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 45,
+    "apuesta": 34,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 45,
+    "apuesta": 34,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 45,
+    "apuesta": 45,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 45,
+    "apuesta": 45,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 45,
+    "apuesta": 68,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 45,
+    "apuesta": 68,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 45,
+    "apuesta": 90,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 45,
+    "apuesta": 90,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 50,
+    "apuesta": 12,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 50,
+    "apuesta": 12,
+    "apuesta_frac": "1/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 50,
+    "apuesta": 17,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 50,
+    "apuesta": 17,
+    "apuesta_frac": "1/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 50,
+    "apuesta": 25,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 50,
+    "apuesta": 25,
+    "apuesta_frac": "1/2",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1/2",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 50,
+    "apuesta": 33,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 50,
+    "apuesta": 33,
+    "apuesta_frac": "2/3",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "2/3",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 50,
+    "apuesta": 38,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 50,
+    "apuesta": 38,
+    "apuesta_frac": "3/4",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2.3:1",
+    "respuesta_percent": "30%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "3/4",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 50,
+    "apuesta": 50,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 50,
+    "apuesta": 50,
+    "apuesta_frac": "1x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 50,
+    "apuesta": 75,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 50,
+    "apuesta": 75,
+    "apuesta_frac": "1.5x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.7:1",
+    "respuesta_percent": "37.5%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "1.5x",
+      "grupo_pregunta": "equity"
+    }
+  },
+  {
+    "bote": 50,
+    "apuesta": 100,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "relacion",
+    "pregunta": "¿Relacion? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "relacion"
+    }
+  },
+  {
+    "bote": 50,
+    "apuesta": 100,
+    "apuesta_frac": "2x",
+    "pregunta_tipo": "equity",
+    "pregunta": "¿EQ para CALL? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "tags": {
+      "grupo_bote": "35-50",
+      "grupo_apuesta": "2x",
+      "grupo_pregunta": "equity"
+    }
+  }
+]

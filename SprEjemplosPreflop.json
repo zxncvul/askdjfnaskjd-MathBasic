@@ -1,0 +1,26 @@
+[
+  {
+    "pregunta": "Open 2.5 + call = ¿SPR flop?",
+    "respuesta": "≈ 13"
+  },
+  {
+    "pregunta": "≈ 13",
+    "respuesta": "Open 2.5 + call = ¿SPR flop?"
+  },
+  {
+    "pregunta": "3bet pot flop ≈ 19bb = ¿SPR?",
+    "respuesta": "≈ 5"
+  },
+  {
+    "pregunta": "≈ 5",
+    "respuesta": "3bet pot flop ≈ 19bb = ¿SPR?"
+  },
+  {
+    "pregunta": "4bet pot flop ≈ 44bb = ¿SPR?",
+    "respuesta": "≈ 2.3"
+  },
+  {
+    "pregunta": "≈ 2.3",
+    "respuesta": "4bet pot flop ≈ 44bb = ¿SPR?"
+  }
+]

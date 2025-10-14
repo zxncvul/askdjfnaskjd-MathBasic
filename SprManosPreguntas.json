@@ -1,0 +1,34 @@
+[
+  {
+    "pregunta": "¿Hasta qué SPR puedes stackear cómodo un overpair?",
+    "respuesta": "≤ 5"
+  },
+  {
+    "pregunta": "≤ 5",
+    "respuesta": "¿Hasta qué SPR puedes stackear cómodo un overpair?"
+  },
+  {
+    "pregunta": "¿Hasta qué SPR se compromete TPTK?",
+    "respuesta": "≤ 4"
+  },
+  {
+    "pregunta": "≤ 4",
+    "respuesta": "¿Hasta qué SPR se compromete TPTK?"
+  },
+  {
+    "pregunta": "¿Hasta qué SPR se puede stackear un set?",
+    "respuesta": "≤ 10"
+  },
+  {
+    "pregunta": "≤ 10",
+    "respuesta": "¿Hasta qué SPR se puede stackear un set?"
+  },
+  {
+    "pregunta": "¿Hasta qué SPR puedes jugar un proyecto de color max?",
+    "respuesta": "≤ 6"
+  },
+  {
+    "pregunta": "≤ 6",
+    "respuesta": "¿Hasta qué SPR puedes jugar un proyecto de color max?"
+  }
+]

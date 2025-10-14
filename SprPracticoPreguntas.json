@@ -1,0 +1,1982 @@
+[
+  {
+    "stack": 15,
+    "bote": 2,
+    "spr": 7.5,
+    "pregunta": "Stack 15, bote 2 = ?",
+    "respuesta": "7.5",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 15,
+    "bote": 4,
+    "spr": 3.8,
+    "pregunta": "Stack 15, bote 4 = ?",
+    "respuesta": "3.8",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 15,
+    "bote": 5,
+    "spr": 3.0,
+    "pregunta": "Stack 15, bote 5 = ?",
+    "respuesta": "3.0",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 15,
+    "bote": 6,
+    "spr": 2.5,
+    "pregunta": "Stack 15, bote 6 = ?",
+    "respuesta": "2.5",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 15,
+    "bote": 8,
+    "spr": 1.9,
+    "pregunta": "Stack 15, bote 8 = ?",
+    "respuesta": "1.9",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 15,
+    "bote": 10,
+    "spr": 1.5,
+    "pregunta": "Stack 15, bote 10 = ?",
+    "respuesta": "1.5",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 15,
+    "bote": 12,
+    "spr": 1.3,
+    "pregunta": "Stack 15, bote 12 = ?",
+    "respuesta": "1.3",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 15,
+    "bote": 15,
+    "spr": 1.0,
+    "pregunta": "Stack 15, bote 15 = ?",
+    "respuesta": "1.0",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 15,
+    "bote": 20,
+    "spr": 0.8,
+    "pregunta": "Stack 15, bote 20 = ?",
+    "respuesta": "0.8",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 15,
+    "bote": 25,
+    "spr": 0.6,
+    "pregunta": "Stack 15, bote 25 = ?",
+    "respuesta": "0.6",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 15,
+    "bote": 30,
+    "spr": 0.5,
+    "pregunta": "Stack 15, bote 30 = ?",
+    "respuesta": "0.5",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 15,
+    "bote": 35,
+    "spr": 0.4,
+    "pregunta": "Stack 15, bote 35 = ?",
+    "respuesta": "0.4",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 15,
+    "bote": 40,
+    "spr": 0.4,
+    "pregunta": "Stack 15, bote 40 = ?",
+    "respuesta": "0.4",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 15,
+    "bote": 45,
+    "spr": 0.3,
+    "pregunta": "Stack 15, bote 45 = ?",
+    "respuesta": "0.3",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 15,
+    "bote": 50,
+    "spr": 0.3,
+    "pregunta": "Stack 15, bote 50 = ?",
+    "respuesta": "0.3",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 20,
+    "bote": 2,
+    "spr": 10.0,
+    "pregunta": "Stack 20, bote 2 = ?",
+    "respuesta": "10.0",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 20,
+    "bote": 4,
+    "spr": 5.0,
+    "pregunta": "Stack 20, bote 4 = ?",
+    "respuesta": "5.0",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 20,
+    "bote": 5,
+    "spr": 4.0,
+    "pregunta": "Stack 20, bote 5 = ?",
+    "respuesta": "4.0",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 20,
+    "bote": 6,
+    "spr": 3.3,
+    "pregunta": "Stack 20, bote 6 = ?",
+    "respuesta": "3.3",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 20,
+    "bote": 8,
+    "spr": 2.5,
+    "pregunta": "Stack 20, bote 8 = ?",
+    "respuesta": "2.5",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 20,
+    "bote": 10,
+    "spr": 2.0,
+    "pregunta": "Stack 20, bote 10 = ?",
+    "respuesta": "2.0",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 20,
+    "bote": 12,
+    "spr": 1.7,
+    "pregunta": "Stack 20, bote 12 = ?",
+    "respuesta": "1.7",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 20,
+    "bote": 15,
+    "spr": 1.3,
+    "pregunta": "Stack 20, bote 15 = ?",
+    "respuesta": "1.3",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 20,
+    "bote": 20,
+    "spr": 1.0,
+    "pregunta": "Stack 20, bote 20 = ?",
+    "respuesta": "1.0",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 20,
+    "bote": 25,
+    "spr": 0.8,
+    "pregunta": "Stack 20, bote 25 = ?",
+    "respuesta": "0.8",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 20,
+    "bote": 30,
+    "spr": 0.7,
+    "pregunta": "Stack 20, bote 30 = ?",
+    "respuesta": "0.7",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 20,
+    "bote": 35,
+    "spr": 0.6,
+    "pregunta": "Stack 20, bote 35 = ?",
+    "respuesta": "0.6",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 20,
+    "bote": 40,
+    "spr": 0.5,
+    "pregunta": "Stack 20, bote 40 = ?",
+    "respuesta": "0.5",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 20,
+    "bote": 45,
+    "spr": 0.4,
+    "pregunta": "Stack 20, bote 45 = ?",
+    "respuesta": "0.4",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 20,
+    "bote": 50,
+    "spr": 0.4,
+    "pregunta": "Stack 20, bote 50 = ?",
+    "respuesta": "0.4",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 25,
+    "bote": 2,
+    "spr": 12.5,
+    "pregunta": "Stack 25, bote 2 = ?",
+    "respuesta": "12.5",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 25,
+    "bote": 4,
+    "spr": 6.3,
+    "pregunta": "Stack 25, bote 4 = ?",
+    "respuesta": "6.3",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 25,
+    "bote": 5,
+    "spr": 5.0,
+    "pregunta": "Stack 25, bote 5 = ?",
+    "respuesta": "5.0",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 25,
+    "bote": 6,
+    "spr": 4.2,
+    "pregunta": "Stack 25, bote 6 = ?",
+    "respuesta": "4.2",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 25,
+    "bote": 8,
+    "spr": 3.1,
+    "pregunta": "Stack 25, bote 8 = ?",
+    "respuesta": "3.1",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 25,
+    "bote": 10,
+    "spr": 2.5,
+    "pregunta": "Stack 25, bote 10 = ?",
+    "respuesta": "2.5",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 25,
+    "bote": 12,
+    "spr": 2.1,
+    "pregunta": "Stack 25, bote 12 = ?",
+    "respuesta": "2.1",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 25,
+    "bote": 15,
+    "spr": 1.7,
+    "pregunta": "Stack 25, bote 15 = ?",
+    "respuesta": "1.7",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 25,
+    "bote": 20,
+    "spr": 1.3,
+    "pregunta": "Stack 25, bote 20 = ?",
+    "respuesta": "1.3",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 25,
+    "bote": 25,
+    "spr": 1.0,
+    "pregunta": "Stack 25, bote 25 = ?",
+    "respuesta": "1.0",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 25,
+    "bote": 30,
+    "spr": 0.8,
+    "pregunta": "Stack 25, bote 30 = ?",
+    "respuesta": "0.8",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 25,
+    "bote": 35,
+    "spr": 0.7,
+    "pregunta": "Stack 25, bote 35 = ?",
+    "respuesta": "0.7",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 25,
+    "bote": 40,
+    "spr": 0.6,
+    "pregunta": "Stack 25, bote 40 = ?",
+    "respuesta": "0.6",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 25,
+    "bote": 45,
+    "spr": 0.6,
+    "pregunta": "Stack 25, bote 45 = ?",
+    "respuesta": "0.6",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 25,
+    "bote": 50,
+    "spr": 0.5,
+    "pregunta": "Stack 25, bote 50 = ?",
+    "respuesta": "0.5",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 30,
+    "bote": 2,
+    "spr": 15.0,
+    "pregunta": "Stack 30, bote 2 = ?",
+    "respuesta": "15.0",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 30,
+    "bote": 4,
+    "spr": 7.5,
+    "pregunta": "Stack 30, bote 4 = ?",
+    "respuesta": "7.5",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 30,
+    "bote": 5,
+    "spr": 6.0,
+    "pregunta": "Stack 30, bote 5 = ?",
+    "respuesta": "6.0",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 30,
+    "bote": 6,
+    "spr": 5.0,
+    "pregunta": "Stack 30, bote 6 = ?",
+    "respuesta": "5.0",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 30,
+    "bote": 8,
+    "spr": 3.8,
+    "pregunta": "Stack 30, bote 8 = ?",
+    "respuesta": "3.8",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 30,
+    "bote": 10,
+    "spr": 3.0,
+    "pregunta": "Stack 30, bote 10 = ?",
+    "respuesta": "3.0",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 30,
+    "bote": 12,
+    "spr": 2.5,
+    "pregunta": "Stack 30, bote 12 = ?",
+    "respuesta": "2.5",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 30,
+    "bote": 15,
+    "spr": 2.0,
+    "pregunta": "Stack 30, bote 15 = ?",
+    "respuesta": "2.0",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 30,
+    "bote": 20,
+    "spr": 1.5,
+    "pregunta": "Stack 30, bote 20 = ?",
+    "respuesta": "1.5",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 30,
+    "bote": 25,
+    "spr": 1.2,
+    "pregunta": "Stack 30, bote 25 = ?",
+    "respuesta": "1.2",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 30,
+    "bote": 30,
+    "spr": 1.0,
+    "pregunta": "Stack 30, bote 30 = ?",
+    "respuesta": "1.0",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 30,
+    "bote": 35,
+    "spr": 0.9,
+    "pregunta": "Stack 30, bote 35 = ?",
+    "respuesta": "0.9",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 30,
+    "bote": 40,
+    "spr": 0.8,
+    "pregunta": "Stack 30, bote 40 = ?",
+    "respuesta": "0.8",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 30,
+    "bote": 45,
+    "spr": 0.7,
+    "pregunta": "Stack 30, bote 45 = ?",
+    "respuesta": "0.7",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 30,
+    "bote": 50,
+    "spr": 0.6,
+    "pregunta": "Stack 30, bote 50 = ?",
+    "respuesta": "0.6",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 35,
+    "bote": 2,
+    "spr": 17.5,
+    "pregunta": "Stack 35, bote 2 = ?",
+    "respuesta": "17.5",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 35,
+    "bote": 4,
+    "spr": 8.8,
+    "pregunta": "Stack 35, bote 4 = ?",
+    "respuesta": "8.8",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 35,
+    "bote": 5,
+    "spr": 7.0,
+    "pregunta": "Stack 35, bote 5 = ?",
+    "respuesta": "7.0",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 35,
+    "bote": 6,
+    "spr": 5.8,
+    "pregunta": "Stack 35, bote 6 = ?",
+    "respuesta": "5.8",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 35,
+    "bote": 8,
+    "spr": 4.4,
+    "pregunta": "Stack 35, bote 8 = ?",
+    "respuesta": "4.4",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 35,
+    "bote": 10,
+    "spr": 3.5,
+    "pregunta": "Stack 35, bote 10 = ?",
+    "respuesta": "3.5",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 35,
+    "bote": 12,
+    "spr": 2.9,
+    "pregunta": "Stack 35, bote 12 = ?",
+    "respuesta": "2.9",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 35,
+    "bote": 15,
+    "spr": 2.3,
+    "pregunta": "Stack 35, bote 15 = ?",
+    "respuesta": "2.3",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 35,
+    "bote": 20,
+    "spr": 1.8,
+    "pregunta": "Stack 35, bote 20 = ?",
+    "respuesta": "1.8",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 35,
+    "bote": 25,
+    "spr": 1.4,
+    "pregunta": "Stack 35, bote 25 = ?",
+    "respuesta": "1.4",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 35,
+    "bote": 30,
+    "spr": 1.2,
+    "pregunta": "Stack 35, bote 30 = ?",
+    "respuesta": "1.2",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 35,
+    "bote": 35,
+    "spr": 1.0,
+    "pregunta": "Stack 35, bote 35 = ?",
+    "respuesta": "1.0",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 35,
+    "bote": 40,
+    "spr": 0.9,
+    "pregunta": "Stack 35, bote 40 = ?",
+    "respuesta": "0.9",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 35,
+    "bote": 45,
+    "spr": 0.8,
+    "pregunta": "Stack 35, bote 45 = ?",
+    "respuesta": "0.8",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 35,
+    "bote": 50,
+    "spr": 0.7,
+    "pregunta": "Stack 35, bote 50 = ?",
+    "respuesta": "0.7",
+    "tags": {
+      "grupo_stack": "15-35",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 40,
+    "bote": 2,
+    "spr": 20.0,
+    "pregunta": "Stack 40, bote 2 = ?",
+    "respuesta": "20.0",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 40,
+    "bote": 4,
+    "spr": 10.0,
+    "pregunta": "Stack 40, bote 4 = ?",
+    "respuesta": "10.0",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 40,
+    "bote": 5,
+    "spr": 8.0,
+    "pregunta": "Stack 40, bote 5 = ?",
+    "respuesta": "8.0",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 40,
+    "bote": 6,
+    "spr": 6.7,
+    "pregunta": "Stack 40, bote 6 = ?",
+    "respuesta": "6.7",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 40,
+    "bote": 8,
+    "spr": 5.0,
+    "pregunta": "Stack 40, bote 8 = ?",
+    "respuesta": "5.0",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 40,
+    "bote": 10,
+    "spr": 4.0,
+    "pregunta": "Stack 40, bote 10 = ?",
+    "respuesta": "4.0",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 40,
+    "bote": 12,
+    "spr": 3.3,
+    "pregunta": "Stack 40, bote 12 = ?",
+    "respuesta": "3.3",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 40,
+    "bote": 15,
+    "spr": 2.7,
+    "pregunta": "Stack 40, bote 15 = ?",
+    "respuesta": "2.7",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 40,
+    "bote": 20,
+    "spr": 2.0,
+    "pregunta": "Stack 40, bote 20 = ?",
+    "respuesta": "2.0",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 40,
+    "bote": 25,
+    "spr": 1.6,
+    "pregunta": "Stack 40, bote 25 = ?",
+    "respuesta": "1.6",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 40,
+    "bote": 30,
+    "spr": 1.3,
+    "pregunta": "Stack 40, bote 30 = ?",
+    "respuesta": "1.3",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 40,
+    "bote": 35,
+    "spr": 1.1,
+    "pregunta": "Stack 40, bote 35 = ?",
+    "respuesta": "1.1",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 40,
+    "bote": 40,
+    "spr": 1.0,
+    "pregunta": "Stack 40, bote 40 = ?",
+    "respuesta": "1.0",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 40,
+    "bote": 45,
+    "spr": 0.9,
+    "pregunta": "Stack 40, bote 45 = ?",
+    "respuesta": "0.9",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 40,
+    "bote": 50,
+    "spr": 0.8,
+    "pregunta": "Stack 40, bote 50 = ?",
+    "respuesta": "0.8",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 45,
+    "bote": 2,
+    "spr": 22.5,
+    "pregunta": "Stack 45, bote 2 = ?",
+    "respuesta": "22.5",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 45,
+    "bote": 4,
+    "spr": 11.3,
+    "pregunta": "Stack 45, bote 4 = ?",
+    "respuesta": "11.3",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 45,
+    "bote": 5,
+    "spr": 9.0,
+    "pregunta": "Stack 45, bote 5 = ?",
+    "respuesta": "9.0",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 45,
+    "bote": 6,
+    "spr": 7.5,
+    "pregunta": "Stack 45, bote 6 = ?",
+    "respuesta": "7.5",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 45,
+    "bote": 8,
+    "spr": 5.6,
+    "pregunta": "Stack 45, bote 8 = ?",
+    "respuesta": "5.6",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 45,
+    "bote": 10,
+    "spr": 4.5,
+    "pregunta": "Stack 45, bote 10 = ?",
+    "respuesta": "4.5",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 45,
+    "bote": 12,
+    "spr": 3.8,
+    "pregunta": "Stack 45, bote 12 = ?",
+    "respuesta": "3.8",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 45,
+    "bote": 15,
+    "spr": 3.0,
+    "pregunta": "Stack 45, bote 15 = ?",
+    "respuesta": "3.0",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 45,
+    "bote": 20,
+    "spr": 2.3,
+    "pregunta": "Stack 45, bote 20 = ?",
+    "respuesta": "2.3",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 45,
+    "bote": 25,
+    "spr": 1.8,
+    "pregunta": "Stack 45, bote 25 = ?",
+    "respuesta": "1.8",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 45,
+    "bote": 30,
+    "spr": 1.5,
+    "pregunta": "Stack 45, bote 30 = ?",
+    "respuesta": "1.5",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 45,
+    "bote": 35,
+    "spr": 1.3,
+    "pregunta": "Stack 45, bote 35 = ?",
+    "respuesta": "1.3",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 45,
+    "bote": 40,
+    "spr": 1.1,
+    "pregunta": "Stack 45, bote 40 = ?",
+    "respuesta": "1.1",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 45,
+    "bote": 45,
+    "spr": 1.0,
+    "pregunta": "Stack 45, bote 45 = ?",
+    "respuesta": "1.0",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 45,
+    "bote": 50,
+    "spr": 0.9,
+    "pregunta": "Stack 45, bote 50 = ?",
+    "respuesta": "0.9",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 50,
+    "bote": 2,
+    "spr": 25.0,
+    "pregunta": "Stack 50, bote 2 = ?",
+    "respuesta": "25.0",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 50,
+    "bote": 4,
+    "spr": 12.5,
+    "pregunta": "Stack 50, bote 4 = ?",
+    "respuesta": "12.5",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 50,
+    "bote": 5,
+    "spr": 10.0,
+    "pregunta": "Stack 50, bote 5 = ?",
+    "respuesta": "10.0",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 50,
+    "bote": 6,
+    "spr": 8.3,
+    "pregunta": "Stack 50, bote 6 = ?",
+    "respuesta": "8.3",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 50,
+    "bote": 8,
+    "spr": 6.3,
+    "pregunta": "Stack 50, bote 8 = ?",
+    "respuesta": "6.3",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 50,
+    "bote": 10,
+    "spr": 5.0,
+    "pregunta": "Stack 50, bote 10 = ?",
+    "respuesta": "5.0",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 50,
+    "bote": 12,
+    "spr": 4.2,
+    "pregunta": "Stack 50, bote 12 = ?",
+    "respuesta": "4.2",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 50,
+    "bote": 15,
+    "spr": 3.3,
+    "pregunta": "Stack 50, bote 15 = ?",
+    "respuesta": "3.3",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 50,
+    "bote": 20,
+    "spr": 2.5,
+    "pregunta": "Stack 50, bote 20 = ?",
+    "respuesta": "2.5",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 50,
+    "bote": 25,
+    "spr": 2.0,
+    "pregunta": "Stack 50, bote 25 = ?",
+    "respuesta": "2.0",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 50,
+    "bote": 30,
+    "spr": 1.7,
+    "pregunta": "Stack 50, bote 30 = ?",
+    "respuesta": "1.7",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 50,
+    "bote": 35,
+    "spr": 1.4,
+    "pregunta": "Stack 50, bote 35 = ?",
+    "respuesta": "1.4",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 50,
+    "bote": 40,
+    "spr": 1.3,
+    "pregunta": "Stack 50, bote 40 = ?",
+    "respuesta": "1.3",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 50,
+    "bote": 45,
+    "spr": 1.1,
+    "pregunta": "Stack 50, bote 45 = ?",
+    "respuesta": "1.1",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 50,
+    "bote": 50,
+    "spr": 1.0,
+    "pregunta": "Stack 50, bote 50 = ?",
+    "respuesta": "1.0",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 60,
+    "bote": 2,
+    "spr": 30.0,
+    "pregunta": "Stack 60, bote 2 = ?",
+    "respuesta": "30.0",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 60,
+    "bote": 4,
+    "spr": 15.0,
+    "pregunta": "Stack 60, bote 4 = ?",
+    "respuesta": "15.0",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 60,
+    "bote": 5,
+    "spr": 12.0,
+    "pregunta": "Stack 60, bote 5 = ?",
+    "respuesta": "12.0",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 60,
+    "bote": 6,
+    "spr": 10.0,
+    "pregunta": "Stack 60, bote 6 = ?",
+    "respuesta": "10.0",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 60,
+    "bote": 8,
+    "spr": 7.5,
+    "pregunta": "Stack 60, bote 8 = ?",
+    "respuesta": "7.5",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 60,
+    "bote": 10,
+    "spr": 6.0,
+    "pregunta": "Stack 60, bote 10 = ?",
+    "respuesta": "6.0",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 60,
+    "bote": 12,
+    "spr": 5.0,
+    "pregunta": "Stack 60, bote 12 = ?",
+    "respuesta": "5.0",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 60,
+    "bote": 15,
+    "spr": 4.0,
+    "pregunta": "Stack 60, bote 15 = ?",
+    "respuesta": "4.0",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 60,
+    "bote": 20,
+    "spr": 3.0,
+    "pregunta": "Stack 60, bote 20 = ?",
+    "respuesta": "3.0",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 60,
+    "bote": 25,
+    "spr": 2.4,
+    "pregunta": "Stack 60, bote 25 = ?",
+    "respuesta": "2.4",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 60,
+    "bote": 30,
+    "spr": 2.0,
+    "pregunta": "Stack 60, bote 30 = ?",
+    "respuesta": "2.0",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 60,
+    "bote": 35,
+    "spr": 1.7,
+    "pregunta": "Stack 60, bote 35 = ?",
+    "respuesta": "1.7",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 60,
+    "bote": 40,
+    "spr": 1.5,
+    "pregunta": "Stack 60, bote 40 = ?",
+    "respuesta": "1.5",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 60,
+    "bote": 45,
+    "spr": 1.3,
+    "pregunta": "Stack 60, bote 45 = ?",
+    "respuesta": "1.3",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 60,
+    "bote": 50,
+    "spr": 1.2,
+    "pregunta": "Stack 60, bote 50 = ?",
+    "respuesta": "1.2",
+    "tags": {
+      "grupo_stack": "40-60",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 70,
+    "bote": 2,
+    "spr": 35.0,
+    "pregunta": "Stack 70, bote 2 = ?",
+    "respuesta": "35.0",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 70,
+    "bote": 4,
+    "spr": 17.5,
+    "pregunta": "Stack 70, bote 4 = ?",
+    "respuesta": "17.5",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 70,
+    "bote": 5,
+    "spr": 14.0,
+    "pregunta": "Stack 70, bote 5 = ?",
+    "respuesta": "14.0",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 70,
+    "bote": 6,
+    "spr": 11.7,
+    "pregunta": "Stack 70, bote 6 = ?",
+    "respuesta": "11.7",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 70,
+    "bote": 8,
+    "spr": 8.8,
+    "pregunta": "Stack 70, bote 8 = ?",
+    "respuesta": "8.8",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 70,
+    "bote": 10,
+    "spr": 7.0,
+    "pregunta": "Stack 70, bote 10 = ?",
+    "respuesta": "7.0",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 70,
+    "bote": 12,
+    "spr": 5.8,
+    "pregunta": "Stack 70, bote 12 = ?",
+    "respuesta": "5.8",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 70,
+    "bote": 15,
+    "spr": 4.7,
+    "pregunta": "Stack 70, bote 15 = ?",
+    "respuesta": "4.7",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 70,
+    "bote": 20,
+    "spr": 3.5,
+    "pregunta": "Stack 70, bote 20 = ?",
+    "respuesta": "3.5",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 70,
+    "bote": 25,
+    "spr": 2.8,
+    "pregunta": "Stack 70, bote 25 = ?",
+    "respuesta": "2.8",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 70,
+    "bote": 30,
+    "spr": 2.3,
+    "pregunta": "Stack 70, bote 30 = ?",
+    "respuesta": "2.3",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 70,
+    "bote": 35,
+    "spr": 2.0,
+    "pregunta": "Stack 70, bote 35 = ?",
+    "respuesta": "2.0",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 70,
+    "bote": 40,
+    "spr": 1.8,
+    "pregunta": "Stack 70, bote 40 = ?",
+    "respuesta": "1.8",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 70,
+    "bote": 45,
+    "spr": 1.6,
+    "pregunta": "Stack 70, bote 45 = ?",
+    "respuesta": "1.6",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 70,
+    "bote": 50,
+    "spr": 1.4,
+    "pregunta": "Stack 70, bote 50 = ?",
+    "respuesta": "1.4",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 80,
+    "bote": 2,
+    "spr": 40.0,
+    "pregunta": "Stack 80, bote 2 = ?",
+    "respuesta": "40.0",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 80,
+    "bote": 4,
+    "spr": 20.0,
+    "pregunta": "Stack 80, bote 4 = ?",
+    "respuesta": "20.0",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 80,
+    "bote": 5,
+    "spr": 16.0,
+    "pregunta": "Stack 80, bote 5 = ?",
+    "respuesta": "16.0",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 80,
+    "bote": 6,
+    "spr": 13.3,
+    "pregunta": "Stack 80, bote 6 = ?",
+    "respuesta": "13.3",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 80,
+    "bote": 8,
+    "spr": 10.0,
+    "pregunta": "Stack 80, bote 8 = ?",
+    "respuesta": "10.0",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 80,
+    "bote": 10,
+    "spr": 8.0,
+    "pregunta": "Stack 80, bote 10 = ?",
+    "respuesta": "8.0",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 80,
+    "bote": 12,
+    "spr": 6.7,
+    "pregunta": "Stack 80, bote 12 = ?",
+    "respuesta": "6.7",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 80,
+    "bote": 15,
+    "spr": 5.3,
+    "pregunta": "Stack 80, bote 15 = ?",
+    "respuesta": "5.3",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 80,
+    "bote": 20,
+    "spr": 4.0,
+    "pregunta": "Stack 80, bote 20 = ?",
+    "respuesta": "4.0",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 80,
+    "bote": 25,
+    "spr": 3.2,
+    "pregunta": "Stack 80, bote 25 = ?",
+    "respuesta": "3.2",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 80,
+    "bote": 30,
+    "spr": 2.7,
+    "pregunta": "Stack 80, bote 30 = ?",
+    "respuesta": "2.7",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 80,
+    "bote": 35,
+    "spr": 2.3,
+    "pregunta": "Stack 80, bote 35 = ?",
+    "respuesta": "2.3",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 80,
+    "bote": 40,
+    "spr": 2.0,
+    "pregunta": "Stack 80, bote 40 = ?",
+    "respuesta": "2.0",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 80,
+    "bote": 45,
+    "spr": 1.8,
+    "pregunta": "Stack 80, bote 45 = ?",
+    "respuesta": "1.8",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 80,
+    "bote": 50,
+    "spr": 1.6,
+    "pregunta": "Stack 80, bote 50 = ?",
+    "respuesta": "1.6",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 100,
+    "bote": 2,
+    "spr": 50.0,
+    "pregunta": "Stack 100, bote 2 = ?",
+    "respuesta": "50.0",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 100,
+    "bote": 4,
+    "spr": 25.0,
+    "pregunta": "Stack 100, bote 4 = ?",
+    "respuesta": "25.0",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 100,
+    "bote": 5,
+    "spr": 20.0,
+    "pregunta": "Stack 100, bote 5 = ?",
+    "respuesta": "20.0",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 100,
+    "bote": 6,
+    "spr": 16.7,
+    "pregunta": "Stack 100, bote 6 = ?",
+    "respuesta": "16.7",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 100,
+    "bote": 8,
+    "spr": 12.5,
+    "pregunta": "Stack 100, bote 8 = ?",
+    "respuesta": "12.5",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 100,
+    "bote": 10,
+    "spr": 10.0,
+    "pregunta": "Stack 100, bote 10 = ?",
+    "respuesta": "10.0",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "2-10"
+    }
+  },
+  {
+    "stack": 100,
+    "bote": 12,
+    "spr": 8.3,
+    "pregunta": "Stack 100, bote 12 = ?",
+    "respuesta": "8.3",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 100,
+    "bote": 15,
+    "spr": 6.7,
+    "pregunta": "Stack 100, bote 15 = ?",
+    "respuesta": "6.7",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 100,
+    "bote": 20,
+    "spr": 5.0,
+    "pregunta": "Stack 100, bote 20 = ?",
+    "respuesta": "5.0",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 100,
+    "bote": 25,
+    "spr": 4.0,
+    "pregunta": "Stack 100, bote 25 = ?",
+    "respuesta": "4.0",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 100,
+    "bote": 30,
+    "spr": 3.3,
+    "pregunta": "Stack 100, bote 30 = ?",
+    "respuesta": "3.3",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "12-30"
+    }
+  },
+  {
+    "stack": 100,
+    "bote": 35,
+    "spr": 2.9,
+    "pregunta": "Stack 100, bote 35 = ?",
+    "respuesta": "2.9",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 100,
+    "bote": 40,
+    "spr": 2.5,
+    "pregunta": "Stack 100, bote 40 = ?",
+    "respuesta": "2.5",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 100,
+    "bote": 45,
+    "spr": 2.2,
+    "pregunta": "Stack 100, bote 45 = ?",
+    "respuesta": "2.2",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "35-50"
+    }
+  },
+  {
+    "stack": 100,
+    "bote": 50,
+    "spr": 2.0,
+    "pregunta": "Stack 100, bote 50 = ?",
+    "respuesta": "2.0",
+    "tags": {
+      "grupo_stack": "70-100",
+      "grupo_bote": "35-50"
+    }
+  }
+]

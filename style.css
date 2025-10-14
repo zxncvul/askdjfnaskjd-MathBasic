@@ -1,0 +1,967 @@
+/* Global settings: Reset margins/padding, set background and typography */
+@font-face {
+  font-family: 'GohuMono';
+  src: url('./GohuFont14NerdFontMono-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+#app, #root, .main {
+  width: 100vw;
+  height: 100vh;
+}
+
+body {
+  margin-top: -15px !important;
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  font-family: 'GohuMono', monospace;
+  color: #28a745;
+   width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+  display: flex;              /* mantenemos flex si quieres que el hijo se estire */
+  align-items: flex-start;    /* ⬅ ahora lo alinea arriba */
+  justify-content: center;/* ⬅ y a la izquierda */
+  
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+
+
+/* Math Panel: Principal container para todas las interfaces de ejercicios */
+.math-panel {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #000;
+  border: 0 solid #28a745;
+  border-radius: 5px;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+    width: 100%;
+  height: 100%;
+  max-width: 100vw;
+  box-sizing: border-box;
+  
+}
+
+
+/* Topbar: Barra de pestañas con los módulos (NUMA, etc.) */
+.math-topbar {
+  position: absolute;
+  top: -36px;
+  left: 0;
+  transform: none;
+ 
+  gap: 8px;
+  z-index: 1000;
+  background: transparent;
+}
+
+/* Tabs: Botones de selección de módulo */
+.math-tab {
+  background: transparent;
+  position: relative;
+  top: 17px;
+  border: 0px solid #28a746;
+  color: #28a745;
+  padding: 6px 12px;
+  font-size: 9px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+/* Hover y activo para tabs: Inversión de colores al pasar o selección */
+.math-tab:hover,
+.math-tab.active {
+  background-color: #28a746;
+  color: #000;
+}
+
+/* Área de ejercicios: contenedor donde se muestran preguntas y respuestas */
+.math-exercise-area {
+  flex: 1;
+  padding: 16px;
+  background-color: #000;
+  color: #fff;
+  overflow: auto;
+}
+
+/* Terminal NUMA: Contenedor estilo terminal para configuración y ejercicios */
+.numa-terminal {
+  position: relative;
+  background: #000;
+  color: #28a746; /* Color verde de estilo terminal */
+  font-family: 'GohuMono', monospace;
+  padding-left: 0;
+  padding-right: 0;
+  height: 100%;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  border-top: 1px solid transparent;
+    width: 100%;
+  height: 100%;
+  max-width: 100vw;
+  box-sizing: border-box;
+   overflow-y: auto;
+}
+
+/* Config Container: filas y columnas para opciones de operación */
+.numa-cfg-container {
+  display: flex;
+  gap: 1em;
+  justify-content: center;
+  margin-bottom: 0em;
+}
+
+/* Configuration Column: cada columna de opciones */
+.numa-cfg-col {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3em;
+  justify-content: center;
+}
+
+/* Separador entre columnas de configuración */
+.numa-cfg-col + .numa-cfg-col {
+  border-left: 1px solid #28a746;
+  padding-left: 1em;
+}
+
+/* Filas dentro de columnas: para botones agrupados */
+.numa-cfg-row {
+  display: flex;
+  gap: 0.6em;
+  justify-content: center;
+  margin-bottom: 0em !important;
+}
+
+/* Botones generales NUMA: operaciones, modos, velocidad */
+.numa-btn {
+  position: relative;
+  top: -2px;
+  background: #000;
+  color: #28a745;
+  border: 0px solid #28a746;
+  border-radius: 5px;
+  height: 1.8em;
+  padding: 0 0.5em;
+  font-size: 16px;
+  line-height: 0.2rem;
+  cursor: pointer;
+  font-family: 'GohuMono', monospace;
+  text-align: center;
+  box-sizing: border-box;
+  transition: background 0.2s, box-shadow 0.2s;
+}
+
+/* Hover para botones NUMA: ligero fondo semitransparente */
+.numa-btn:hover {
+  background: rgba(0, 0, 0, 0.2);
+}
+
+/* Botón activo NUMA: fondo verde y texto negro */
+.numa-btn.active {
+  background: #000000;
+  color: #28a746;
+}
+
+/* Botones deshabilitados: opacidad reducida excepto Random mode */
+.numa-btn.disabled:not(.active):not([data-mode="Random"]),
+.numa-btn[disabled]:not(.active):not([data-mode="Random"]) {
+  opacity: 0.2;
+}
+
+/* Grid de selección de números (1-100) */
+.numa-scroll {
+  display: grid;
+  margin: 0 auto;
+  grid-template-columns: repeat(10, 2.1em);
+  column-gap: 0em;
+  row-gap: 0em;
+  background: transparent;
+  border: 0px dashed #28a746;
+  border-radius: 5px;
+  padding: 0.3em 0.3em;
+  margin-top: 0em !important;
+  width: fit-content;
+  text-align: center;
+  padding-top: 0em !important;
+}
+
+/* Botones de número para tablas (1-100) */
+.numa-num-btn {
+  background: #000;
+  color: #28a745;
+  border: 0px solid #28a746;
+  border-radius: 5px;
+  height: 2em;
+  padding:  0em;
+  font-size: 14px;
+  gap:4px;
+  line-height: 0.1rem;
+  cursor: pointer;
+  font-family: 'GohuMono', monospace;
+  text-align: center;
+  box-sizing: border-box;
+  position: relative;
+  
+  transition: background 0.2s, box-shadow 0.2s;
+  width: auto;
+}
+
+/* Hover para botones numéricos */
+.numa-num-btn:hover {
+  background: rgba(0, 0, 0, 0.2);
+  
+  
+}
+
+/* Número activo: fondo verde, texto negro */
+.numa-num-btn.active {
+   background: #000000;
+  color: #28a746;
+  border: 4px solid #000;
+  border-radius: 5px;
+
+  overflow: hidden;       /* 🔒 recorta contenido que sobresale */
+  padding: 0.2em 0.6em;    /* ✅ espacio interno adecuado */
+  box-sizing: border-box; /* asegura que el border se incluya en el tamaño */
+}
+
+/* Barra inferior: contenedor para spinners Inicio, Fin, Chain */
+.numa-bottom {
+  
+  display: flex;
+  gap: 1em;
+  align-items: center;
+  justify-content: center;
+  border: 0px solid #28a746;
+  border-radius: 5px;
+  padding: 0.3em 0em;
+  
+}
+
+/* Spinner input group: estilo de control numérico personalizado */
+.numa-spinner {
+  display: inline-flex;
+  align-items: center;
+  background: #000;
+  border: 0 solid #28a746;
+  border-radius: 5px;
+  overflow: hidden;
+  padding: 0.2em 0em;
+  margin-top: 0rem;
+}
+
+/* Input tipo number: sin flechas nativas, estilo terminal */
+.numa-spinner input[type="number"] {
+  appearance: none;
+  background: #000;
+  color: #e21818;
+  border: none;
+  padding: 0.2em 0em;
+  font-family: 'GohuMono', monospace;
+  font-size: 14px;
+  line-height: 1.2em;
+  width: 2.5em;
+  text-align: center;
+  box-sizing: border-box;
+  outline: none;
+  
+}
+
+/* Ocultar flechas del input number en webkit */
+.numa-spinner input[type="number"]::-webkit-inner-spin-button,
+.numa-spinner input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Botones del spinner (▲▼) */
+.numa-spinner-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2.7em;
+  min-height: 4em;
+  gap: 1px;
+  background: #000;
+  color: #28a745;
+  border: none;
+  cursor: pointer;
+  font-size: 11px;
+  line-height: 1;
+  padding: 0;
+  box-sizing: border-box;
+  transition: background 0.2s;
+}
+
+/* Hover spinner buttons */
+.numa-spinner-btn:hover {
+  background: rgba(0, 0, 0, 0);
+}
+
+/* Inputs y botones deshabilitados opacados */
+input.disabled,
+input:disabled,
+button.disabled,
+button:disabled {
+  opacity: 0.2;
+}
+
+/* Etiquetas dentro de numa-bottom: estilo de texto descriptivo */
+.numa-bottom label {
+  font-size: 14px;
+  color: #28a745;
+  display: flex;
+  align-items: center;
+  gap: 0.2em;
+}
+
+/* Estadísticas del módulo (total ejercicios, estimación de tiempo) */
+.numa-stats {
+  margin-top: 1em;
+}
+
+.numa-output {
+  margin-top: 1em;
+  margin-left: 3em;
+  flex: 2;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  font-family: 'GohuMono', monospace;
+  font-size: 16px;
+}
+
+/* Fila de ejercicio activa */
+.exercise-row {
+  display: block; /* cambio clave: no uses flex aquí */
+  
+}
+
+/* Expresión + igual */
+.exercise-row .question {
+  display: inline;
+  
+  font-size: 17px;
+}
+
+/* Input con mismo espaciado */
+.exercise-row .answer-input {
+  display: inline-block;
+  font-family: 'GohuMono', monospace;
+  font-size: 17px;
+  width: 4ch;
+  padding: 0;
+  margin: 0;
+  background: #000;
+  color: #28a745;
+  caret-color: #28a745;
+  border: none;
+  outline: none;
+  vertical-align: baseline;
+  line-height: 1;
+  text-align: left;
+}
+
+/* Lista respuestas archivadas */
+.answered-list {
+  display: flex;
+  flex-direction: column;
+  font-size: 17px;
+  font-family: 'GohuMono', monospace;
+  white-space: pre;
+  width: 4ch;
+  margin-top: 0.5em;
+  margin-left: 15px;
+  border: none;
+  outline: none;
+  line-height: 1;
+  opacity: 0.7;
+}
+
+/* Cada ítem */
+.answered-item {
+  margin-bottom: 0.2em;
+  white-space: pre;
+}
+
+/* Color error */
+.answered-item.incorrect {
+  color: #ff0000;
+}
+
+
+
+
+
+/* Estilos cuando .numa-bottom o .numa-input-group están deshabilitados */
+.numa-bottom.disabled label,
+.numa-bottom.disabled span,
+.numa-bottom.disabled p,
+.numa-input-group.disabled label,
+.numa-input-group.disabled span,
+.numa-input-group.disabled p {
+  opacity: 0.4;
+  pointer-events: none;
+}
+
+/* Ocultar flechas en inputs disabled */
+input[type="number"].disabled::-webkit-inner-spin-button,
+input[type="number"].disabled::-webkit-outer-spin-button,
+input[type="number"].disabled {
+  opacity: 0.4;
+}
+
+/* Contenedor de botones inferior (Comenzar, Poker Train) */
+.numa-btn-row {
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+  margin-top: -15px;
+  align-items: center;
+  width: auto;
+  margin-left: 1.1em;
+}
+
+/* Estilo específico para botones .start-btn dentro de numa-btn-row */
+.numa-btn-row .start-btn,
+.numa-btn-row .start-btn + .numa-btn {
+  height: 3.7em;
+  width: 70px;                  /* ← tamaño fijo */
+  font-size: 0.8rem;
+  line-height: 2em;
+  padding: 0.2em 0.6em;
+  margin-left: 0.9em;
+  margin-right: 0.9em;
+  margin-top: 0em;
+  box-sizing: border-box;
+
+  flex: none;                    /* ✅ ← evita que se estiren */
+  border: 0px solid #28a745;     /* ✅ ← borde personalizado */
+  border-radius: 6px;
+}
+
+.numa-cfg-row.speed-row {
+  gap: 0em; /* ← controla el espacio horizontal entre los botones */
+}
+
+.numa-cfg-row.speed-row .numa-btn {
+  min-width: 0em;    /* Ajusta a lo que prefieras, por ejemplo: 2.5em, 4em... */
+  text-align: center;
+   gap: 0em;
+}
+
+
+
+  
+
+
+.numa-cfg-col:first-child .numa-btn {
+  min-width: 1.5em;   /* ajusta ancho si lo ves muy pequeño */
+   height: 1em !important;  /* más bajos */
+  padding-left: 0.2em;
+  padding-right: 0.2em;
+  font-size: 25px;
+}
+
+.numa-cfg-col:first-child .numa-cfg-row:first-child {
+  margin-bottom: 0em; /* ajusta aquí el espacio entre filas */
+}
+
+.icon-up, .icon-down {
+  font-size: 11px;       /* Cambia solo el tamaño del icono */
+  display: inline-block;
+  line-height: 1;
+}
+
+/* Mueve el icono hacia abajo */
+.icon-up {
+  transform: translateY(12px);
+}
+
+/* Mueve el icono hacia arriba */
+.icon-down {
+  transform: translateY(-12px);
+}
+
+
+/* Estilo fijo y borde SOLO para Comenzar */
+.start-btn-fixed {
+  width: 8em;               /* ancho fijo */
+  height: 3em;              /* alto fijo */
+  border: 2px solid #01ffaa;
+  border-radius: 6px;
+  box-sizing: border-box;
+  background-color: #000;
+  color: #28a745;
+  font-size: 1rem;
+  overflow: hidden;
+}
+
+/* Estilo fijo y borde SOLO para Poker Train */
+.poker-btn-fixed {
+  width: 8em;
+  height: 3em;
+  border: 2px solid #ffaa01;
+  border-radius: 6px;
+  box-sizing: border-box;
+  background-color: #000;
+  color: #28a745;
+  font-size: 1rem;
+  overflow: hidden;
+}
+
+
+
+.numa-output {
+  position: sticky;
+  top: 0;
+  left: 2em;
+  right: 2em;
+  z-index: 1;
+  background: #000;
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.exercise-row {
+  margin: 0;
+  padding: 0;
+}
+
+
+/* Hide by default */
+#numeric-keypad {
+  display: none;
+}
+
+/* Show on small viewports */
+@media (max-width: 600px) {
+  #numeric-keypad {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.25rem;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 0.5rem;
+    background: #000000;
+    z-index: 1000;
+    margin-bottom: 0rem !important;
+  }
+  #numeric-keypad button {
+    font-size: 16px;
+    padding: 1.3rem 0;
+    background: #000000;
+    font-family: 'GohuMono', monospace;
+    border: none;
+    color: #28a745;
+    border-radius: 4px;
+  }
+  #numeric-keypad button:active {
+    background: #000000;
+  }
+
+  /* Evita que el contenido principal quede tapado */
+  body {
+    padding-bottom: calc(4 * 2.5rem + 1rem);
+  }
+}
+
+/* Grupo de < [LABEL: input] > */
+.numa-bracket-group {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+}
+
+/* Botones de ángulo: NO heredan .numa-btn (evita line-height 0.2rem y top:-2px) */
+.angle-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 1.2em;          /* igual que el input */
+  min-width: 1.1em;
+  padding: 0 0em;
+  line-height: 1;
+  background: #000;
+  color: #28a745;
+  border: 0px solid #28a745;
+  border-radius: 4px;
+  font-family: 'GohuMono', monospace;
+  font-size: 14px;
+  cursor: pointer;
+  top: 6px !important; 
+}
+
+/* Alinea etiqueta + input en el mismo eje */
+.numa-input-group {
+  display: inline-flex;
+  align-items: center;
+  gap: 0em;
+}
+
+/* En la barra inferior, no empujes el input hacia abajo */
+.numa-bottom .numa-spinner {
+  margin-top: 0;          /* antes lo tenías en 1rem */
+  display: inline-flex;
+  align-items: center;
+}
+
+/* Input: misma altura y línea base estable */
+.numa-spinner input[type="number"] {
+  height: 1.6em;
+  line-height: 1;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-size: 14px;
+}
+.numa-input-group label {
+  gap: 0em !important;       /* lo mismo dentro del label */
+    margin: 0 !important;
+  padding: 0 !important;
+}
+
+.numa-spinner input[type="number"] {
+  margin-left: 0;   /* anula separación implícita */
+  padding-left: 0;  /* quita espacio interior extra */
+  width: 1.8em;     /* ajusta ancho, no uses padding para darle aire */
+}
+
+#poker-numbs-bar {
+  display: flex;
+  justify-content: flex-start;  /* que los botones se peguen a la izquierda del bloque */
+  width: fit-content;           /* ancho exacto de su contenido */
+  margin: 0 auto;               /* centra el bloque igual que el grid */
+  margin-top: 0em;            /* opcional: espacio con el grid */
+  gap: 0.7em;   /* o incluso 0.3em si quieres muy juntos */
+  transform: translateX(-0.3em);
+  font: 9px !important;
+}
+
+/* columna de la izquierda */
+.numa-cfg-col {
+  padding-right: 0em;   /* añade espacio antes de la línea */
+}
+
+/* columna de la derecha */
+.numa-cfg-col + .numa-cfg-col {
+  border-left: 0px dashed #28a746;
+  padding-left: 2em;    /* espacio después de la línea */
+  margin-top: 0.4em;
+}
+
+.numa-cfg-col:nth-child(2) {
+  gap: -0em;   /* controla espacio vertical solo en la derecha */
+}
+
+.numa-bracket-group .disabled,
+.numa-bracket-group .disabled * {
+  opacity: 0.4;
+}
+
+/* Estilo de deshabilitado general */
+.disabled {
+  opacity: 0.4;         /* lo hace más apagado */
+  pointer-events: none; /* ignora clicks */
+}
+
+
+.numa-btn.disabled,
+.numa-btn:disabled {
+  opacity: 0.2;
+  pointer-events: none;
+  cursor: not-allowed;
+}
+
+/* Botones habilitados pero no pulsados */
+.numa-btn:not(.disabled):not(.active),
+.numa-num-btn:not(.disabled):not(.active) {
+  background-color: #000000;   /* color de fondo cuando están listos */
+  color: #c51616;                 /* color del texto */
+  border: none;      /* borde */
+}
+
+/* Botones de Poker Numbs */
+#poker-numbs-bar .numa-btn {
+  background: none;
+  border: none;
+  color: #28a746;    /* verde para consistencia */
+  
+ 
+  cursor: pointer;
+}
+
+/* Si está activo o no, solo cambia el círculo, no el color */
+#poker-numbs-bar .numa-btn.active {
+  color: #28a746;
+}
+.numa-bottom .divider {
+  display: inline-block;
+  margin: 0;
+  padding: 0;      /* asegura cero relleno */
+  color: #0d5a1f;       /* color gris discreto */
+   vertical-align: middle;   /* base */
+  position: relative;
+  top: -2px;                /* súbela 2px, ajusta al gusto */
+}
+
+.timer-btn.active { background: #28a745; color: #28a745; }
+.timer-btn.inactive { background: #dc3545; color: #dc3545; }
+
+.countdown-widget { display: flex; align-items: center; gap: 4px; }
+.countdown-widget.disabled { color: #dc3545; }
+.countdown-widget.enabled { color: #28a745; }
+
+/* --- Barra superior en sesión --- */
+.numa-top-bar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 0.8rem;
+  background: #000;        /* fondo negro como la app */
+  padding: 4px 8px;
+  border-bottom: 1px solid #333;
+}
+
+/* Botón de salir */
+.numa-top-bar .exit-btn {
+  background: transparent;
+  border: none;
+  color: #ff4444;
+  font-size: 0.9rem;
+  font-family: monospace;
+  cursor: pointer;
+}
+
+/* --- Botones de cronómetro / contrarreloj --- */
+.timer-btn {
+  border: none;
+  background: none;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-family: monospace;
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.timer-btn img {
+  width: 16px;
+  height: 16px;
+}
+
+/* Estado verde / rojo */
+.timer-btn.active {
+  color: #28a745; /* verde */
+}
+.timer-btn.inactive {
+  color: #dc3545; /* rojo */
+}
+
+/* --- Widget contrarreloj (< [icono] tiempo >) --- */
+.countdown-widget {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-family: monospace;
+}
+
+.countdown-widget.disabled {
+  color: #dc3545;
+}
+.countdown-widget.enabled {
+  color: #28a745;
+}
+
+.countdown-widget .angle-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+
+  font-size: 0.9rem;
+  color: #28a745;
+  min-width: 30px;
+}
+
+.numa-top-bar {
+  border-bottom: none !important;   /* elimina línea inferior */
+  box-shadow: none !important;      /* elimina sombra si la hubiera */
+}
+
+.numa-cfg-row.bet-row .numa-btn {
+  margin: 0 0px;   /* casi pegados */
+  padding: 0 0em;
+margin-top: 5px;
+}
+
+/* Fila compacta específica para apuestas (1/4…2x) */
+.numa-cfg-row.bet-row {
+  gap: 0.34em !important;
+  margin-top: 5px;
+  margin-left: -10px;
+}
+
+.numa-cfg-row.bet-row .numa-btn {
+  padding: 0 0.35em !important;
+  min-width: auto !important;
+  
+}
+
+/* Fila compacta para Relación/EQ y rangos */
+.numa-cfg-row.type-row {
+  gap: 0em;          /* menos hueco que el default */
+  margin-left: -10px !important;
+  margin-top: 5px !important;
+}
+
+.numa-cfg-row.type-row .numa-btn {
+  padding: 0 0.8em;
+  min-width: auto;
+}
+
+/* Fila compacta para Equiti Teórico (N%, N:N, EQ, Ratio, Viceversa) */
+.numa-bottom.teor-row .numa-btn {
+  height: 1.3em;     /* más bajos que los botones normales */
+  margin-left: -20px;
+  padding: 0 1.18em;  /* menos ancho interno */
+  margin-top: 0px;
+    
+}
+
+/* Estilo específico solo para los botones SPR */
+.spr-btn {
+  min-width: 0em;
+  font-size: 0.85rem;
+  gap: 0em !important;
+  border-color: #28a746;
+}
+
+.spr-btn.active {
+  background: #28a746;
+  color: #000;
+}
+/* Separador entre los bloques de botones SPR */
+.spr-separator {
+  color: #28a746;      /* verde terminal */
+  margin: 0 0rem;      /* espacio horizontal */
+margin-top: -4px !important;
+  font-size: 1rem;
+  user-select: none;   /* no seleccionable */
+}
+
+/* Equiti Teórico: añade aire por encima de la fila */
+#equiti-teor-row {
+  margin-top: 5px !important;  /* ajusta a gusto: 0.6rem–2rem */
+}
+
+button.numa-btn.active {
+  background: #000;
+  color: #28a746;
+}
+
+
+/* Botón comenzar (cuando está habilitado) */
+#startBtn:not(:disabled) {
+  background: #000;       /* fondo negro como todo */
+  color: #ff0;            /* texto amarillo */
+  border: 1px solid #ff0; /* borde opcional amarillo */
+}
+
+/* Botón reset siempre amarillo */
+/* === START amarillo cuando está habilitado, RESET amarillo siempre === */
+.numa-btn.start-btn:not(:disabled),
+.numa-btn.start-btn.active {
+  background: #000 !important;
+  color: rgba(255, 255, 0, 0.692) !important;
+  border: 0px solid #ff0 !important;
+}
+
+.numa-btn.reset-btn {
+  background: #000 !important;
+  color: rgba(255, 255, 0, 0.801) !important;
+  border: 0px solid #ff0 !important;
+}
+
+/* Opcional: feedback al pasar el ratón */
+.numa-btn.start-btn:not(:disabled):hover,
+.numa-btn.reset-btn:hover {
+  box-shadow: 0 0 0 0px #ff0 inset !important;
+}
+/* START botón */
+.numa-btn.start-btn:disabled {
+  background: #000 !important;
+  color: #ffd900e5 !important;   /* amarillo oscuro/marrón */
+  border: 0px solid #665500 !important;
+}
+/* === Barra de tiempos: tamaño de fuente unificado === */
+.numa-top-bar,
+.numa-top-bar span,
+.numa-top-bar .timer-display,
+.numa-top-bar .countdown-widget,
+.numa-top-bar .countdown-widget span,
+.numa-top-bar .timer-btn {
+  font-size: 14px !important;   /* ajusta a tu gusto */
+  font-family: monospace !important;
+  line-height: 1.2 !important;
+   justify-content: flex-start !important;
+}
+
+.numa-top-bar .close-btn {
+  margin-left: 20px !important;
+}
+
+
+/* Vista responsive a pantalla completa con margen uniforme */
+
+
+/* Teclado numérico NUMA */
+#numeric-keypad {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3em;
+  margin-top: 1em;
+  align-items: center;
+}
+
+.numa-keypad-row {
+  display: flex;
+  gap: 0.3em;
+}
+
+.numa-key {
+  background: #000;
+  color: #28a745;
+  border: 1px solid #28a745;
+  border-radius: 4px;
+  width: 7.5em;
+  height: 4.5em;
+  font-family: 'GohuMono', monospace;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+.numa-key:hover {
+  background: rgba(40,167,69,0.2);
+}
+
+#numeric-keypad .numa-keypad-row:last-child .numa-key {
+
+   width: 4.8em;
+ 
+}

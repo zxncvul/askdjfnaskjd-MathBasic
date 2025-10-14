@@ -1,0 +1,1924 @@
+{
+"potOddsOps": [
+{
+"outs": 1,
+"street": "flop_turn",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 1 =",
+"answer": "2.1"
+},
+{
+"outs": 1,
+"street": "flop_turn",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 1 =",
+"answer": "46:1"
+},
+{
+"outs": 1,
+"street": "flop_turn",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "2.1% =",
+"answer": "46:1"
+},
+{
+"outs": 1,
+"street": "flop_turn",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "46:1 =",
+"answer": "2.1"
+},
+{
+"outs": 1,
+"street": "turn_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 1 =",
+"answer": "2.2"
+},
+{
+"outs": 1,
+"street": "turn_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 1 =",
+"answer": "45:1"
+},
+{
+"outs": 1,
+"street": "turn_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "2.2% =",
+"answer": "45:1"
+},
+{
+"outs": 1,
+"street": "turn_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "45:1 =",
+"answer": "2.2"
+},
+{
+"outs": 1,
+"street": "flop_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 1 =",
+"answer": "4.3"
+},
+{
+"outs": 1,
+"street": "flop_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 1 =",
+"answer": "22.26:1"
+},
+{
+"outs": 1,
+"street": "flop_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "4.3% =",
+"answer": "22.26:1"
+},
+{
+"outs": 1,
+"street": "flop_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "22.26:1 =",
+"answer": "4.3"
+},
+{
+"outs": 2,
+"street": "flop_turn",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 2 =",
+"answer": "4.3"
+},
+{
+"outs": 2,
+"street": "flop_turn",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 2 =",
+"answer": "22.5:1"
+},
+{
+"outs": 2,
+"street": "flop_turn",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "4.3% =",
+"answer": "22.5:1"
+},
+{
+"outs": 2,
+"street": "flop_turn",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "22.5:1 =",
+"answer": "4.3"
+},
+{
+"outs": 2,
+"street": "turn_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 2 =",
+"answer": "4.3"
+},
+{
+"outs": 2,
+"street": "turn_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 2 =",
+"answer": "22:1"
+},
+{
+"outs": 2,
+"street": "turn_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "4.3% =",
+"answer": "22:1"
+},
+{
+"outs": 2,
+"street": "turn_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "22:1 =",
+"answer": "4.3"
+},
+{
+"outs": 2,
+"street": "flop_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 2 =",
+"answer": "8.4"
+},
+{
+"outs": 2,
+"street": "flop_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 2 =",
+"answer": "10.9:1"
+},
+{
+"outs": 2,
+"street": "flop_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "8.4% =",
+"answer": "10.9:1"
+},
+{
+"outs": 2,
+"street": "flop_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "10.9:1 =",
+"answer": "8.4"
+},
+{
+"outs": 3,
+"street": "flop_turn",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 3 =",
+"answer": "6.4"
+},
+{
+"outs": 3,
+"street": "flop_turn",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 3 =",
+"answer": "16.67:1"
+},
+{
+"outs": 3,
+"street": "flop_turn",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "6.4% =",
+"answer": "16.67:1"
+},
+{
+"outs": 3,
+"street": "flop_turn",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "16.67:1 =",
+"answer": "6.4"
+},
+{
+"outs": 3,
+"street": "turn_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 3 =",
+"answer": "6.5"
+},
+{
+"outs": 3,
+"street": "turn_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 3 =",
+"answer": "14.33:1"
+},
+{
+"outs": 3,
+"street": "turn_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "6.5% =",
+"answer": "14.33:1"
+},
+{
+"outs": 3,
+"street": "turn_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "14.33:1 =",
+"answer": "6.5"
+},
+{
+"outs": 3,
+"street": "flop_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 3 =",
+"answer": "12.5"
+},
+{
+"outs": 3,
+"street": "flop_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 3 =",
+"answer": "7:1"
+},
+{
+"outs": 3,
+"street": "flop_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "12.5% =",
+"answer": "7:1"
+},
+{
+"outs": 3,
+"street": "flop_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "7:1 =",
+"answer": "12.5"
+},
+{
+"outs": 4,
+"street": "flop_turn",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 4 =",
+"answer": "8.5"
+},
+{
+"outs": 4,
+"street": "flop_turn",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 4 =",
+"answer": "10.75:1"
+},
+{
+"outs": 4,
+"street": "flop_turn",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "8.5% =",
+"answer": "10.75:1"
+},
+{
+"outs": 4,
+"street": "flop_turn",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "10.75:1 =",
+"answer": "8.5"
+},
+{
+"outs": 4,
+"street": "turn_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 4 =",
+"answer": "8.7"
+},
+{
+"outs": 4,
+"street": "turn_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 4 =",
+"answer": "10.5:1"
+},
+{
+"outs": 4,
+"street": "turn_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "8.7% =",
+"answer": "10.5:1"
+},
+{
+"outs": 4,
+"street": "turn_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "10.5:1 =",
+"answer": "8.7"
+},
+{
+"outs": 4,
+"street": "flop_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 4 =",
+"answer": "16.5"
+},
+{
+"outs": 4,
+"street": "flop_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 4 =",
+"answer": "5.06:1"
+},
+{
+"outs": 4,
+"street": "flop_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "16.5% =",
+"answer": "5.06:1"
+},
+{
+"outs": 4,
+"street": "flop_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "5.06:1 =",
+"answer": "16.5"
+},
+{
+"outs": 5,
+"street": "flop_turn",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 5 =",
+"answer": "10.6"
+},
+{
+"outs": 5,
+"street": "flop_turn",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 5 =",
+"answer": "8.4:1"
+},
+{
+"outs": 5,
+"street": "flop_turn",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "10.6% =",
+"answer": "8.4:1"
+},
+{
+"outs": 5,
+"street": "flop_turn",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "8.4:1 =",
+"answer": "10.6"
+},
+{
+"outs": 5,
+"street": "turn_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 5 =",
+"answer": "10.9"
+},
+{
+"outs": 5,
+"street": "turn_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 5 =",
+"answer": "8.2:1"
+},
+{
+"outs": 5,
+"street": "turn_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "10.9% =",
+"answer": "8.2:1"
+},
+{
+"outs": 5,
+"street": "turn_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "8.2:1 =",
+"answer": "10.9"
+},
+{
+"outs": 5,
+"street": "flop_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 5 =",
+"answer": "20.3"
+},
+{
+"outs": 5,
+"street": "flop_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 5 =",
+"answer": "3.93:1"
+},
+{
+"outs": 5,
+"street": "flop_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "20.3% =",
+"answer": "3.93:1"
+},
+{
+"outs": 5,
+"street": "flop_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "3.93:1 =",
+"answer": "20.3"
+},
+{
+"outs": 6,
+"street": "flop_turn",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 6 =",
+"answer": "12.8"
+},
+{
+"outs": 6,
+"street": "flop_turn",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 6 =",
+"answer": "6.83:1"
+},
+{
+"outs": 6,
+"street": "flop_turn",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "12.8% =",
+"answer": "6.83:1"
+},
+{
+"outs": 6,
+"street": "flop_turn",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "6.83:1 =",
+"answer": "12.8"
+},
+{
+"outs": 6,
+"street": "turn_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 6 =",
+"answer": "13.0"
+},
+{
+"outs": 6,
+"street": "turn_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 6 =",
+"answer": "6.67:1"
+},
+{
+"outs": 6,
+"street": "turn_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "13.0% =",
+"answer": "6.67:1"
+},
+{
+"outs": 6,
+"street": "turn_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "6.67:1 =",
+"answer": "13.0"
+},
+{
+"outs": 6,
+"street": "flop_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 6 =",
+"answer": "24.1"
+},
+{
+"outs": 6,
+"street": "flop_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 6 =",
+"answer": "3.15:1"
+},
+{
+"outs": 6,
+"street": "flop_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "24.1% =",
+"answer": "3.15:1"
+},
+{
+"outs": 6,
+"street": "flop_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "3.15:1 =",
+"answer": "24.1"
+},
+{
+"outs": 7,
+"street": "flop_turn",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 7 =",
+"answer": "14.9"
+},
+{
+"outs": 7,
+"street": "flop_turn",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 7 =",
+"answer": "5.71:1"
+},
+{
+"outs": 7,
+"street": "flop_turn",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "14.9% =",
+"answer": "5.71:1"
+},
+{
+"outs": 7,
+"street": "flop_turn",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "5.71:1 =",
+"answer": "14.9"
+},
+{
+"outs": 7,
+"street": "turn_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 7 =",
+"answer": "15.2"
+},
+{
+"outs": 7,
+"street": "turn_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 7 =",
+"answer": "5.57:1"
+},
+{
+"outs": 7,
+"street": "turn_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "15.2% =",
+"answer": "5.57:1"
+},
+{
+"outs": 7,
+"street": "turn_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "5.57:1 =",
+"answer": "15.2"
+},
+{
+"outs": 7,
+"street": "flop_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 7 =",
+"answer": "27.8"
+},
+{
+"outs": 7,
+"street": "flop_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 7 =",
+"answer": "2.6:1"
+},
+{
+"outs": 7,
+"street": "flop_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "27.8% =",
+"answer": "2.6:1"
+},
+{
+"outs": 7,
+"street": "flop_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "2.6:1 =",
+"answer": "27.8"
+},
+{
+"outs": 8,
+"street": "flop_turn",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 8 =",
+"answer": "17.0"
+},
+{
+"outs": 8,
+"street": "flop_turn",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 8 =",
+"answer": "4.88:1"
+},
+{
+"outs": 8,
+"street": "flop_turn",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "17.0% =",
+"answer": "4.88:1"
+},
+{
+"outs": 8,
+"street": "flop_turn",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "4.88:1 =",
+"answer": "17.0"
+},
+{
+"outs": 8,
+"street": "turn_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 8 =",
+"answer": "17.4"
+},
+{
+"outs": 8,
+"street": "turn_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 8 =",
+"answer": "4.75:1"
+},
+{
+"outs": 8,
+"street": "turn_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "17.4% =",
+"answer": "4.75:1"
+},
+{
+"outs": 8,
+"street": "turn_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "4.75:1 =",
+"answer": "17.4"
+},
+{
+"outs": 8,
+"street": "flop_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 8 =",
+"answer": "31.5"
+},
+{
+"outs": 8,
+"street": "flop_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 8 =",
+"answer": "2.17:1"
+},
+{
+"outs": 8,
+"street": "flop_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "31.5% =",
+"answer": "2.17:1"
+},
+{
+"outs": 8,
+"street": "flop_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "2.17:1 =",
+"answer": "31.5"
+},
+{
+"outs": 9,
+"street": "flop_turn",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 9 =",
+"answer": "19.1"
+},
+{
+"outs": 9,
+"street": "flop_turn",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 9 =",
+"answer": "4.22:1"
+},
+{
+"outs": 9,
+"street": "flop_turn",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "19.1% =",
+"answer": "4.22:1"
+},
+{
+"outs": 9,
+"street": "flop_turn",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "4.22:1 =",
+"answer": "19.1"
+},
+{
+"outs": 9,
+"street": "turn_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 9 =",
+"answer": "19.6"
+},
+{
+"outs": 9,
+"street": "turn_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 9 =",
+"answer": "4.11:1"
+},
+{
+"outs": 9,
+"street": "turn_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "19.6% =",
+"answer": "4.11:1"
+},
+{
+"outs": 9,
+"street": "turn_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "4.11:1 =",
+"answer": "19.6"
+},
+{
+"outs": 9,
+"street": "flop_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 9 =",
+"answer": "35.0"
+},
+{
+"outs": 9,
+"street": "flop_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 9 =",
+"answer": "1.86:1"
+},
+{
+"outs": 9,
+"street": "flop_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "35.0% =",
+"answer": "1.86:1"
+},
+{
+"outs": 9,
+"street": "flop_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "1.86:1 =",
+"answer": "35.0"
+},
+{
+"outs": 10,
+"street": "flop_turn",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 10 =",
+"answer": "21.3"
+},
+{
+"outs": 10,
+"street": "flop_turn",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 10 =",
+"answer": "3.7:1"
+},
+{
+"outs": 10,
+"street": "flop_turn",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "21.3% =",
+"answer": "3.7:1"
+},
+{
+"outs": 10,
+"street": "flop_turn",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "3.7:1 =",
+"answer": "21.3"
+},
+{
+"outs": 10,
+"street": "turn_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 10 =",
+"answer": "21.7"
+},
+{
+"outs": 10,
+"street": "turn_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 10 =",
+"answer": "3.6:1"
+},
+{
+"outs": 10,
+"street": "turn_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "21.7% =",
+"answer": "3.6:1"
+},
+{
+"outs": 10,
+"street": "turn_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "3.6:1 =",
+"answer": "21.7"
+},
+{
+"outs": 10,
+"street": "flop_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 10 =",
+"answer": "38.4"
+},
+{
+"outs": 10,
+"street": "flop_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 10 =",
+"answer": "1.6:1"
+},
+{
+"outs": 10,
+"street": "flop_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "38.4% =",
+"answer": "1.6:1"
+},
+{
+"outs": 10,
+"street": "flop_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "1.6:1 =",
+"answer": "38.4"
+},
+{
+"outs": 11,
+"street": "flop_turn",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 11 =",
+"answer": "23.4"
+},
+{
+"outs": 11,
+"street": "flop_turn",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 11 =",
+"answer": "3.27:1"
+},
+{
+"outs": 11,
+"street": "flop_turn",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "23.4% =",
+"answer": "3.27:1"
+},
+{
+"outs": 11,
+"street": "flop_turn",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "3.27:1 =",
+"answer": "23.4"
+},
+{
+"outs": 11,
+"street": "turn_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 11 =",
+"answer": "23.9"
+},
+{
+"outs": 11,
+"street": "turn_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 11 =",
+"answer": "3.18:1"
+},
+{
+"outs": 11,
+"street": "turn_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "23.9% =",
+"answer": "3.18:1"
+},
+{
+"outs": 11,
+"street": "turn_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "3.18:1 =",
+"answer": "23.9"
+},
+{
+"outs": 11,
+"street": "flop_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 11 =",
+"answer": "41.7"
+},
+{
+"outs": 11,
+"street": "flop_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 11 =",
+"answer": "1.4:1"
+},
+{
+"outs": 11,
+"street": "flop_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "41.7% =",
+"answer": "1.4:1"
+},
+{
+"outs": 11,
+"street": "flop_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "1.4:1 =",
+"answer": "41.7"
+},
+{
+"outs": 12,
+"street": "flop_turn",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 12 =",
+"answer": "25.5"
+},
+{
+"outs": 12,
+"street": "flop_turn",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 12 =",
+"answer": "2.92:1"
+},
+{
+"outs": 12,
+"street": "flop_turn",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "25.5% =",
+"answer": "2.92:1"
+},
+{
+"outs": 12,
+"street": "flop_turn",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "2.92:1 =",
+"answer": "25.5"
+},
+{
+"outs": 12,
+"street": "turn_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 12 =",
+"answer": "26.1"
+},
+{
+"outs": 12,
+"street": "turn_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 12 =",
+"answer": "2.83:1"
+},
+{
+"outs": 12,
+"street": "turn_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "26.1% =",
+"answer": "2.83:1"
+},
+{
+"outs": 12,
+"street": "turn_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "2.83:1 =",
+"answer": "26.1"
+},
+{
+"outs": 12,
+"street": "flop_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 12 =",
+"answer": "45.0"
+},
+{
+"outs": 12,
+"street": "flop_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 12 =",
+"answer": "1.22:1"
+},
+{
+"outs": 12,
+"street": "flop_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "45.0% =",
+"answer": "1.22:1"
+},
+{
+"outs": 12,
+"street": "flop_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "1.22:1 =",
+"answer": "45.0"
+},
+{
+"outs": 13,
+"street": "flop_turn",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 13 =",
+"answer": "27.7"
+},
+{
+"outs": 13,
+"street": "flop_turn",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 13 =",
+"answer": "2.62:1"
+},
+{
+"outs": 13,
+"street": "flop_turn",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "27.7% =",
+"answer": "2.62:1"
+},
+{
+"outs": 13,
+"street": "flop_turn",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "2.62:1 =",
+"answer": "27.7"
+},
+{
+"outs": 13,
+"street": "turn_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 13 =",
+"answer": "28.3"
+},
+{
+"outs": 13,
+"street": "turn_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 13 =",
+"answer": "2.54:1"
+},
+{
+"outs": 13,
+"street": "turn_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "28.3% =",
+"answer": "2.54:1"
+},
+{
+"outs": 13,
+"street": "turn_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "2.54:1 =",
+"answer": "28.3"
+},
+{
+"outs": 13,
+"street": "flop_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 13 =",
+"answer": "48.1"
+},
+{
+"outs": 13,
+"street": "flop_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 13 =",
+"answer": "1.08:1"
+},
+{
+"outs": 13,
+"street": "flop_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "48.1% =",
+"answer": "1.08:1"
+},
+{
+"outs": 13,
+"street": "flop_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "1.08:1 =",
+"answer": "48.1"
+},
+{
+"outs": 14,
+"street": "flop_turn",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 14 =",
+"answer": "29.8"
+},
+{
+"outs": 14,
+"street": "flop_turn",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 14 =",
+"answer": "2.36:1"
+},
+{
+"outs": 14,
+"street": "flop_turn",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "29.8% =",
+"answer": "2.36:1"
+},
+{
+"outs": 14,
+"street": "flop_turn",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "2.36:1 =",
+"answer": "29.8"
+},
+{
+"outs": 14,
+"street": "turn_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 14 =",
+"answer": "30.4"
+},
+{
+"outs": 14,
+"street": "turn_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 14 =",
+"answer": "2.29:1"
+},
+{
+"outs": 14,
+"street": "turn_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "30.4% =",
+"answer": "2.29:1"
+},
+{
+"outs": 14,
+"street": "turn_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "2.29:1 =",
+"answer": "30.4"
+},
+{
+"outs": 14,
+"street": "flop_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 14 =",
+"answer": "51.2"
+},
+{
+"outs": 14,
+"street": "flop_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 14 =",
+"answer": "0.95:1"
+},
+{
+"outs": 14,
+"street": "flop_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "51.2% =",
+"answer": "0.95:1"
+},
+{
+"outs": 14,
+"street": "flop_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "0.95:1 =",
+"answer": "51.2"
+},
+{
+"outs": 15,
+"street": "flop_turn",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 15 =",
+"answer": "31.9"
+},
+{
+"outs": 15,
+"street": "flop_turn",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 15 =",
+"answer": "2.13:1"
+},
+{
+"outs": 15,
+"street": "flop_turn",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "31.9% =",
+"answer": "2.13:1"
+},
+{
+"outs": 15,
+"street": "flop_turn",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "2.13:1 =",
+"answer": "31.9"
+},
+{
+"outs": 15,
+"street": "turn_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 15 =",
+"answer": "32.6"
+},
+{
+"outs": 15,
+"street": "turn_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 15 =",
+"answer": "2.07:1"
+},
+{
+"outs": 15,
+"street": "turn_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "32.6% =",
+"answer": "2.07:1"
+},
+{
+"outs": 15,
+"street": "turn_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "2.07:1 =",
+"answer": "32.6"
+},
+{
+"outs": 15,
+"street": "flop_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 15 =",
+"answer": "54.1"
+},
+{
+"outs": 15,
+"street": "flop_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 15 =",
+"answer": "0.85:1"
+},
+{
+"outs": 15,
+"street": "flop_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "54.1% =",
+"answer": "0.85:1"
+},
+{
+"outs": 15,
+"street": "flop_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "0.85:1 =",
+"answer": "54.1"
+},
+{
+"outs": 16,
+"street": "flop_turn",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 16 =",
+"answer": "34.0"
+},
+{
+"outs": 16,
+"street": "flop_turn",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 16 =",
+"answer": "1.94:1"
+},
+{
+"outs": 16,
+"street": "flop_turn",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "34.0% =",
+"answer": "1.94:1"
+},
+{
+"outs": 16,
+"street": "flop_turn",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "1.94:1 =",
+"answer": "34.0"
+},
+{
+"outs": 16,
+"street": "turn_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 16 =",
+"answer": "34.8"
+},
+{
+"outs": 16,
+"street": "turn_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 16 =",
+"answer": "1.88:1"
+},
+{
+"outs": 16,
+"street": "turn_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "34.8% =",
+"answer": "1.88:1"
+},
+{
+"outs": 16,
+"street": "turn_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "1.88:1 =",
+"answer": "34.8"
+},
+{
+"outs": 16,
+"street": "flop_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 16 =",
+"answer": "57.0"
+},
+{
+"outs": 16,
+"street": "flop_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 16 =",
+"answer": "0.75:1"
+},
+{
+"outs": 16,
+"street": "flop_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "57.0% =",
+"answer": "0.75:1"
+},
+{
+"outs": 16,
+"street": "flop_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "0.75:1 =",
+"answer": "57.0"
+},
+{
+"outs": 17,
+"street": "flop_turn",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 17 =",
+"answer": "36.2"
+},
+{
+"outs": 17,
+"street": "flop_turn",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 17 =",
+"answer": "1.77:1"
+},
+{
+"outs": 17,
+"street": "flop_turn",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "36.2% =",
+"answer": "1.77:1"
+},
+{
+"outs": 17,
+"street": "flop_turn",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "1.77:1 =",
+"answer": "36.2"
+},
+{
+"outs": 17,
+"street": "turn_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 17 =",
+"answer": "37.0"
+},
+{
+"outs": 17,
+"street": "turn_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 17 =",
+"answer": "1.71:1"
+},
+{
+"outs": 17,
+"street": "turn_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "37.0% =",
+"answer": "1.71:1"
+},
+{
+"outs": 17,
+"street": "turn_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "1.71:1 =",
+"answer": "37.0"
+},
+{
+"outs": 17,
+"street": "flop_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 17 =",
+"answer": "59.8"
+},
+{
+"outs": 17,
+"street": "flop_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 17 =",
+"answer": "0.67:1"
+},
+{
+"outs": 17,
+"street": "flop_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "59.8% =",
+"answer": "0.67:1"
+},
+{
+"outs": 17,
+"street": "flop_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "0.67:1 =",
+"answer": "59.8"
+},
+{
+"outs": 18,
+"street": "flop_turn",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 18 =",
+"answer": "38.3"
+},
+{
+"outs": 18,
+"street": "flop_turn",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 18 =",
+"answer": "1.61:1"
+},
+{
+"outs": 18,
+"street": "flop_turn",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "38.3% =",
+"answer": "1.61:1"
+},
+{
+"outs": 18,
+"street": "flop_turn",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "1.61:1 =",
+"answer": "38.3"
+},
+{
+"outs": 18,
+"street": "turn_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 18 =",
+"answer": "39.1"
+},
+{
+"outs": 18,
+"street": "turn_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 18 =",
+"answer": "1.56:1"
+},
+{
+"outs": 18,
+"street": "turn_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "39.1% =",
+"answer": "1.56:1"
+},
+{
+"outs": 18,
+"street": "turn_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "1.56:1 =",
+"answer": "39.1"
+},
+{
+"outs": 18,
+"street": "flop_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 18 =",
+"answer": "62.4"
+},
+{
+"outs": 18,
+"street": "flop_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 18 =",
+"answer": "0.6:1"
+},
+{
+"outs": 18,
+"street": "flop_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "62.4% =",
+"answer": "0.6:1"
+},
+{
+"outs": 18,
+"street": "flop_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "0.6:1 =",
+"answer": "62.4"
+},
+{
+"outs": 19,
+"street": "flop_turn",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 19 =",
+"answer": "40.4"
+},
+{
+"outs": 19,
+"street": "flop_turn",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 19 =",
+"answer": "1.47:1"
+},
+{
+"outs": 19,
+"street": "flop_turn",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "40.4% =",
+"answer": "1.47:1"
+},
+{
+"outs": 19,
+"street": "flop_turn",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "1.47:1 =",
+"answer": "40.4"
+},
+{
+"outs": 19,
+"street": "turn_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 19 =",
+"answer": "41.3"
+},
+{
+"outs": 19,
+"street": "turn_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 19 =",
+"answer": "1.42:1"
+},
+{
+"outs": 19,
+"street": "turn_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "41.3% =",
+"answer": "1.42:1"
+},
+{
+"outs": 19,
+"street": "turn_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "1.42:1 =",
+"answer": "41.3"
+},
+{
+"outs": 19,
+"street": "flop_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 19 =",
+"answer": "65.0"
+},
+{
+"outs": 19,
+"street": "flop_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 19 =",
+"answer": "0.54:1"
+},
+{
+"outs": 19,
+"street": "flop_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "65.0% =",
+"answer": "0.54:1"
+},
+{
+"outs": 19,
+"street": "flop_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "0.54:1 =",
+"answer": "65.0"
+},
+{
+"outs": 20,
+"street": "flop_turn",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 20 =",
+"answer": "42.6"
+},
+{
+"outs": 20,
+"street": "flop_turn",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 20 =",
+"answer": "1.35:1"
+},
+{
+"outs": 20,
+"street": "flop_turn",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "42.6% =",
+"answer": "1.35:1"
+},
+{
+"outs": 20,
+"street": "flop_turn",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "1.35:1 =",
+"answer": "42.6"
+},
+{
+"outs": 20,
+"street": "turn_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 20 =",
+"answer": "43.5"
+},
+{
+"outs": 20,
+"street": "turn_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 20 =",
+"answer": "1.3:1"
+},
+{
+"outs": 20,
+"street": "turn_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "43.5% =",
+"answer": "1.3:1"
+},
+{
+"outs": 20,
+"street": "turn_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "1.3:1 =",
+"answer": "43.5"
+},
+{
+"outs": 20,
+"street": "flop_river",
+"format": "percent",
+"domain": "raw_percent",
+"question": "Outs % → 20 =",
+"answer": "67.5"
+},
+{
+"outs": 20,
+"street": "flop_river",
+"format": "odds",
+"domain": "raw_odds",
+"question": "Outs : → 20 =",
+"answer": "0.48:1"
+},
+{
+"outs": 20,
+"street": "flop_river",
+"format": "percent_to_odds",
+"domain": "conversion",
+"question": "67.5% =",
+"answer": "0.48:1"
+},
+{
+"outs": 20,
+"street": "flop_river",
+"format": "odds_to_percent",
+"domain": "conversion",
+"question": "0.48:1 =",
+"answer": "67.5"
+}
+]
+}

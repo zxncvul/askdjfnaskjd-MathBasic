@@ -1,0 +1,34 @@
+[
+  {
+    "pregunta": "SPR 2 = ¿cuántas apuestas pot-sized caben?",
+    "respuesta": "1 apuesta → all-in rápido"
+  },
+  {
+    "pregunta": "1 apuesta → all-in rápido",
+    "respuesta": "SPR 2"
+  },
+  {
+    "pregunta": "SPR 5 = ¿cuántas apuestas pot-sized caben?",
+    "respuesta": "2 apuestas fuertes"
+  },
+  {
+    "pregunta": "2 apuestas fuertes",
+    "respuesta": "SPR 5"
+  },
+  {
+    "pregunta": "SPR 8 = ¿cuántas apuestas pot-sized caben?",
+    "respuesta": "3 apuestas posibles"
+  },
+  {
+    "pregunta": "3 apuestas posibles",
+    "respuesta": "SPR 8"
+  },
+  {
+    "pregunta": "SPR 12 = ¿cuántas apuestas pot-sized caben?",
+    "respuesta": "4+ apuestas → solo nuts"
+  },
+  {
+    "pregunta": "4+ apuestas → solo nuts",
+    "respuesta": "SPR 12"
+  }
+]

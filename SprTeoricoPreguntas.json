@@ -1,0 +1,34 @@
+[
+  {
+    "pregunta": "SPR 1–3 → estrategia general?",
+    "respuesta": "Jugar fuerte, stackear overpairs/TPTK"
+  },
+  {
+    "pregunta": "Jugar fuerte, stackear overpairs/TPTK",
+    "respuesta": "SPR 1–3"
+  },
+  {
+    "pregunta": "SPR 4–6 → estrategia general?",
+    "respuesta": "Compromiso con manos fuertes y proyectos"
+  },
+  {
+    "pregunta": "Compromiso con manos fuertes y proyectos",
+    "respuesta": "SPR 4–6"
+  },
+  {
+    "pregunta": "SPR 7–10 → estrategia general?",
+    "respuesta": "Juego más selectivo, nuts y semi-nuts"
+  },
+  {
+    "pregunta": "Juego más selectivo, nuts y semi-nuts",
+    "respuesta": "SPR 7–10"
+  },
+  {
+    "pregunta": "SPR 10+ → estrategia general?",
+    "respuesta": "Solo nuts"
+  },
+  {
+    "pregunta": "Solo nuts",
+    "respuesta": "SPR 10+"
+  }
+]

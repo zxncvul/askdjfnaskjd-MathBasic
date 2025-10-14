@@ -1,0 +1,418 @@
+[
+  {
+    "apuesta_frac": "1/4",
+    "ratio": "5:1",
+    "equity": "16.7%",
+    "pregunta_tipo": "eq",
+    "pregunta": "BET: 1/4 → ¿EQ? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "respuesta_frac": "1/4",
+    "tags": {
+      "grupo_pregunta": "eq"
+    }
+  },
+  {
+    "apuesta_frac": "1/4",
+    "ratio": "5:1",
+    "equity": "16.7%",
+    "pregunta_tipo": "ratio",
+    "pregunta": "BET: 1/4 → ¿PotOdds? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "respuesta_frac": "1/4",
+    "tags": {
+      "grupo_pregunta": "ratio"
+    }
+  },
+  {
+    "apuesta_frac": "1/4",
+    "ratio": "5:1",
+    "equity": "16.7%",
+    "pregunta_tipo": "viceversa_eq",
+    "pregunta": "Necesitas 16.7% → ¿BET? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "respuesta_frac": "1/4",
+    "tags": {
+      "grupo_pregunta": "viceversa_eq"
+    }
+  },
+  {
+    "apuesta_frac": "1/4",
+    "ratio": "5:1",
+    "equity": "16.7%",
+    "pregunta_tipo": "viceversa_ratio",
+    "pregunta": "Ratio 5:1 → ¿BET? =",
+    "respuesta_ratio": "5:1",
+    "respuesta_percent": "16.7%",
+    "respuesta_frac": "1/4",
+    "tags": {
+      "grupo_pregunta": "viceversa_ratio"
+    }
+  },
+  {
+    "apuesta_frac": "1/3",
+    "ratio": "4:1",
+    "equity": "20%",
+    "pregunta_tipo": "eq",
+    "pregunta": "BET: 1/3 → ¿EQ? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "respuesta_frac": "1/3",
+    "tags": {
+      "grupo_pregunta": "eq"
+    }
+  },
+  {
+    "apuesta_frac": "1/3",
+    "ratio": "4:1",
+    "equity": "20%",
+    "pregunta_tipo": "ratio",
+    "pregunta": "BET: 1/3 → ¿PotOdds? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "respuesta_frac": "1/3",
+    "tags": {
+      "grupo_pregunta": "ratio"
+    }
+  },
+  {
+    "apuesta_frac": "1/3",
+    "ratio": "4:1",
+    "equity": "20%",
+    "pregunta_tipo": "viceversa_eq",
+    "pregunta": "Necesitas 20% → ¿BET? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "respuesta_frac": "1/3",
+    "tags": {
+      "grupo_pregunta": "viceversa_eq"
+    }
+  },
+  {
+    "apuesta_frac": "1/3",
+    "ratio": "4:1",
+    "equity": "20%",
+    "pregunta_tipo": "viceversa_ratio",
+    "pregunta": "Ratio 4:1 → ¿BET? =",
+    "respuesta_ratio": "4:1",
+    "respuesta_percent": "20%",
+    "respuesta_frac": "1/3",
+    "tags": {
+      "grupo_pregunta": "viceversa_ratio"
+    }
+  },
+  {
+    "apuesta_frac": "1/2",
+    "ratio": "3:1",
+    "equity": "25%",
+    "pregunta_tipo": "eq",
+    "pregunta": "BET: 1/2 → ¿EQ? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "respuesta_frac": "1/2",
+    "tags": {
+      "grupo_pregunta": "eq"
+    }
+  },
+  {
+    "apuesta_frac": "1/2",
+    "ratio": "3:1",
+    "equity": "25%",
+    "pregunta_tipo": "ratio",
+    "pregunta": "BET: 1/2 → ¿PotOdds? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "respuesta_frac": "1/2",
+    "tags": {
+      "grupo_pregunta": "ratio"
+    }
+  },
+  {
+    "apuesta_frac": "1/2",
+    "ratio": "3:1",
+    "equity": "25%",
+    "pregunta_tipo": "viceversa_eq",
+    "pregunta": "Necesitas 25% → ¿BET? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "respuesta_frac": "1/2",
+    "tags": {
+      "grupo_pregunta": "viceversa_eq"
+    }
+  },
+  {
+    "apuesta_frac": "1/2",
+    "ratio": "3:1",
+    "equity": "25%",
+    "pregunta_tipo": "viceversa_ratio",
+    "pregunta": "Ratio 3:1 → ¿BET? =",
+    "respuesta_ratio": "3:1",
+    "respuesta_percent": "25%",
+    "respuesta_frac": "1/2",
+    "tags": {
+      "grupo_pregunta": "viceversa_ratio"
+    }
+  },
+  {
+    "apuesta_frac": "2/3",
+    "ratio": "2.5:1",
+    "equity": "28.6%",
+    "pregunta_tipo": "eq",
+    "pregunta": "BET: 2/3 → ¿EQ? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "respuesta_frac": "2/3",
+    "tags": {
+      "grupo_pregunta": "eq"
+    }
+  },
+  {
+    "apuesta_frac": "2/3",
+    "ratio": "2.5:1",
+    "equity": "28.6%",
+    "pregunta_tipo": "ratio",
+    "pregunta": "BET: 2/3 → ¿PotOdds? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "respuesta_frac": "2/3",
+    "tags": {
+      "grupo_pregunta": "ratio"
+    }
+  },
+  {
+    "apuesta_frac": "2/3",
+    "ratio": "2.5:1",
+    "equity": "28.6%",
+    "pregunta_tipo": "viceversa_eq",
+    "pregunta": "Necesitas 28.6% → ¿BET? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "respuesta_frac": "2/3",
+    "tags": {
+      "grupo_pregunta": "viceversa_eq"
+    }
+  },
+  {
+    "apuesta_frac": "2/3",
+    "ratio": "2.5:1",
+    "equity": "28.6%",
+    "pregunta_tipo": "viceversa_ratio",
+    "pregunta": "Ratio 2.5:1 → ¿BET? =",
+    "respuesta_ratio": "2.5:1",
+    "respuesta_percent": "28.6%",
+    "respuesta_frac": "2/3",
+    "tags": {
+      "grupo_pregunta": "viceversa_ratio"
+    }
+  },
+  {
+    "apuesta_frac": "3/4",
+    "ratio": "2.33:1",
+    "equity": "30%",
+    "pregunta_tipo": "eq",
+    "pregunta": "BET: 3/4 → ¿EQ? =",
+    "respuesta_ratio": "2.33:1",
+    "respuesta_percent": "30%",
+    "respuesta_frac": "3/4",
+    "tags": {
+      "grupo_pregunta": "eq"
+    }
+  },
+  {
+    "apuesta_frac": "3/4",
+    "ratio": "2.33:1",
+    "equity": "30%",
+    "pregunta_tipo": "ratio",
+    "pregunta": "BET: 3/4 → ¿PotOdds? =",
+    "respuesta_ratio": "2.33:1",
+    "respuesta_percent": "30%",
+    "respuesta_frac": "3/4",
+    "tags": {
+      "grupo_pregunta": "ratio"
+    }
+  },
+  {
+    "apuesta_frac": "3/4",
+    "ratio": "2.33:1",
+    "equity": "30%",
+    "pregunta_tipo": "viceversa_eq",
+    "pregunta": "Necesitas 30% → ¿BET? =",
+    "respuesta_ratio": "2.33:1",
+    "respuesta_percent": "30%",
+    "respuesta_frac": "3/4",
+    "tags": {
+      "grupo_pregunta": "viceversa_eq"
+    }
+  },
+  {
+    "apuesta_frac": "3/4",
+    "ratio": "2.33:1",
+    "equity": "30%",
+    "pregunta_tipo": "viceversa_ratio",
+    "pregunta": "Ratio 2.33:1 → ¿BET? =",
+    "respuesta_ratio": "2.33:1",
+    "respuesta_percent": "30%",
+    "respuesta_frac": "3/4",
+    "tags": {
+      "grupo_pregunta": "viceversa_ratio"
+    }
+  },
+  {
+    "apuesta_frac": "1",
+    "ratio": "2:1",
+    "equity": "33.3%",
+    "pregunta_tipo": "eq",
+    "pregunta": "BET: 1 → ¿EQ? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "respuesta_frac": "1",
+    "tags": {
+      "grupo_pregunta": "eq"
+    }
+  },
+  {
+    "apuesta_frac": "1",
+    "ratio": "2:1",
+    "equity": "33.3%",
+    "pregunta_tipo": "ratio",
+    "pregunta": "BET: 1 → ¿PotOdds? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "respuesta_frac": "1",
+    "tags": {
+      "grupo_pregunta": "ratio"
+    }
+  },
+  {
+    "apuesta_frac": "1",
+    "ratio": "2:1",
+    "equity": "33.3%",
+    "pregunta_tipo": "viceversa_eq",
+    "pregunta": "Necesitas 33.3% → ¿BET? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "respuesta_frac": "1",
+    "tags": {
+      "grupo_pregunta": "viceversa_eq"
+    }
+  },
+  {
+    "apuesta_frac": "1",
+    "ratio": "2:1",
+    "equity": "33.3%",
+    "pregunta_tipo": "viceversa_ratio",
+    "pregunta": "Ratio 2:1 → ¿BET? =",
+    "respuesta_ratio": "2:1",
+    "respuesta_percent": "33.3%",
+    "respuesta_frac": "1",
+    "tags": {
+      "grupo_pregunta": "viceversa_ratio"
+    }
+  },
+  {
+    "apuesta_frac": "1.5",
+    "ratio": "1.6:1",
+    "equity": "37.5%",
+    "pregunta_tipo": "eq",
+    "pregunta": "BET: 1.5 → ¿EQ? =",
+    "respuesta_ratio": "1.6:1",
+    "respuesta_percent": "37.5%",
+    "respuesta_frac": "1.5",
+    "tags": {
+      "grupo_pregunta": "eq"
+    }
+  },
+  {
+    "apuesta_frac": "1.5",
+    "ratio": "1.6:1",
+    "equity": "37.5%",
+    "pregunta_tipo": "ratio",
+    "pregunta": "BET: 1.5 → ¿PotOdds? =",
+    "respuesta_ratio": "1.6:1",
+    "respuesta_percent": "37.5%",
+    "respuesta_frac": "1.5",
+    "tags": {
+      "grupo_pregunta": "ratio"
+    }
+  },
+  {
+    "apuesta_frac": "1.5",
+    "ratio": "1.6:1",
+    "equity": "37.5%",
+    "pregunta_tipo": "viceversa_eq",
+    "pregunta": "Necesitas 37.5% → ¿BET? =",
+    "respuesta_ratio": "1.6:1",
+    "respuesta_percent": "37.5%",
+    "respuesta_frac": "1.5",
+    "tags": {
+      "grupo_pregunta": "viceversa_eq"
+    }
+  },
+  {
+    "apuesta_frac": "1.5",
+    "ratio": "1.6:1",
+    "equity": "37.5%",
+    "pregunta_tipo": "viceversa_ratio",
+    "pregunta": "Ratio 1.6:1 → ¿BET? =",
+    "respuesta_ratio": "1.6:1",
+    "respuesta_percent": "37.5%",
+    "respuesta_frac": "1.5",
+    "tags": {
+      "grupo_pregunta": "viceversa_ratio"
+    }
+  },
+  {
+    "apuesta_frac": "2",
+    "ratio": "1.5:1",
+    "equity": "40%",
+    "pregunta_tipo": "eq",
+    "pregunta": "BET: 2 → ¿EQ? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "respuesta_frac": "2",
+    "tags": {
+      "grupo_pregunta": "eq"
+    }
+  },
+  {
+    "apuesta_frac": "2",
+    "ratio": "1.5:1",
+    "equity": "40%",
+    "pregunta_tipo": "ratio",
+    "pregunta": "BET: 2 → ¿PotOdds? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "respuesta_frac": "2",
+    "tags": {
+      "grupo_pregunta": "ratio"
+    }
+  },
+  {
+    "apuesta_frac": "2",
+    "ratio": "1.5:1",
+    "equity": "40%",
+    "pregunta_tipo": "viceversa_eq",
+    "pregunta": "Necesitas 40% → ¿BET? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "respuesta_frac": "2",
+    "tags": {
+      "grupo_pregunta": "viceversa_eq"
+    }
+  },
+  {
+    "apuesta_frac": "2",
+    "ratio": "1.5:1",
+    "equity": "40%",
+    "pregunta_tipo": "viceversa_ratio",
+    "pregunta": "Ratio 1.5:1 → ¿BET? =",
+    "respuesta_ratio": "1.5:1",
+    "respuesta_percent": "40%",
+    "respuesta_frac": "2",
+    "tags": {
+      "grupo_pregunta": "viceversa_ratio"
+    }
+  }
+]
