@@ -30,7 +30,7 @@ export function createNumericKeypad() {
 
   // Fila extra con más símbolos
   const extraRow = document.createElement('div');
-  extraRow.className = 'numa-keypad-row';
+  extraRow.className = 'numa-keypad-row numa-keypad-row-symbols';
   [':', '/', '%', '.'].forEach(key => {
     const btn = document.createElement('button');
     btn.className = 'numa-key';
