@@ -543,52 +543,85 @@ input[type="number"].disabled {
 }
 
 
-/* Hide by default */
+/* Teclado numérico NUMA */
 #numeric-keypad {
-  display: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3em;
+  margin-top: 1em;
+  align-items: center;
 }
 
-/* Show on small viewports */
-@media (max-width: 600px) {
+.numa-keypad-row {
+  display: flex;
+  gap: 0.3em;
+}
+
+.numa-keypad-row-symbols {
+  justify-content: center;
+}
+
+.numa-key {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #000;
+  color: #28a745;
+  border: 1px solid #28a745;
+  border-radius: 4px;
+  width: 6em;
+  height: 4em;
+  font-family: 'GohuMono', monospace;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.numa-keypad-row-symbols .numa-key {
+  width: 4.8em;
+}
+
+.numa-key:hover {
+  background: rgba(40,167,69,0.2);
+}
+
+@media (max-width: 640px) {
   #numeric-keypad {
-    display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 0.25rem;
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    padding: 0.5rem;
-    background: #000000;
-    z-index: 1000;
-    margin-bottom: 0rem !important;
+    width: min(100%, 360px);
+    align-self: center;
+    padding: 0.4rem 0.6rem;
+    margin-top: 0.8rem;
   }
+
   .numa-keypad-row {
-    display: contents;
-  }
-
-  #numeric-keypad button {
-    font-size: 16px;
-    padding: 1.3rem 0;
-    background: #000000;
-    font-family: 'GohuMono', monospace;
-    border: none;
-    color: #28a745;
-    border-radius: 4px;
     width: 100%;
-    height: auto;
-  }
-  #numeric-keypad button:active {
-    background: #000000;
+    justify-content: center;
+    margin-bottom: 0;
+    gap: 0.4rem;
   }
 
-  #numeric-keypad .numa-keypad-row:last-child .numa-key {
+  .numa-keypad-row:not(.numa-keypad-row-symbols) .numa-key {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .numa-keypad-row-symbols {
     width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 0.4rem;
   }
 
-  /* Evita que el contenido principal quede tapado */
-  body {
-    padding-bottom: calc(4 * 2.5rem + 1rem);
+  .numa-keypad-row-symbols .numa-key {
+    width: auto;
+    margin-bottom: 0.4rem;
+  }
+
+  .numa-key {
+    width: auto;
+    height: 3.2em;
+    margin-bottom: 0.4rem;
+    font-size: 1.1rem;
   }
 }
 
@@ -940,38 +973,3 @@ button.numa-btn.active {
 /* Vista responsive a pantalla completa con margen uniforme */
 
 
-/* Teclado numérico NUMA */
-#numeric-keypad {
-  display: flex;
-  flex-direction: column;
-  gap: 0.3em;
-  margin-top: 1em;
-  align-items: center;
-}
-
-.numa-keypad-row {
-  display: flex;
-  gap: 0.3em;
-}
-
-.numa-key {
-  background: #000;
-  color: #28a745;
-  border: 1px solid #28a745;
-  border-radius: 4px;
-  width: 7.5em;
-  height: 4.5em;
-  font-family: 'GohuMono', monospace;
-  font-size: 1rem;
-  cursor: pointer;
-  margin-bottom: 10px;
-}
-.numa-key:hover {
-  background: rgba(40,167,69,0.2);
-}
-
-#numeric-keypad .numa-keypad-row:last-child .numa-key {
-
-   width: 4.8em;
- 
-}
