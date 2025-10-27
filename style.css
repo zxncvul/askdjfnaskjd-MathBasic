@@ -552,7 +552,7 @@ input[type="number"].disabled {
 @media (max-width: 600px) {
   #numeric-keypad {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 0.25rem;
     position: fixed;
     bottom: 0;
@@ -563,6 +563,10 @@ input[type="number"].disabled {
     z-index: 1000;
     margin-bottom: 0rem !important;
   }
+  .numa-keypad-row {
+    display: contents;
+  }
+
   #numeric-keypad button {
     font-size: 16px;
     padding: 1.3rem 0;
@@ -571,9 +575,15 @@ input[type="number"].disabled {
     border: none;
     color: #28a745;
     border-radius: 4px;
+    width: 100%;
+    height: auto;
   }
   #numeric-keypad button:active {
     background: #000000;
+  }
+
+  #numeric-keypad .numa-keypad-row:last-child .numa-key {
+    width: 100%;
   }
 
   /* Evita que el contenido principal quede tapado */
