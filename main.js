@@ -14,10 +14,12 @@ document.addEventListener('DOMContentLoaded', () => {
   enforceNoSoftKeyboard();
   const mathPanel = document.getElementById('math-panel');
 
- mathPanel.style.display = 'flex';
-mathPanel.style.alignItems = 'center';
-mathPanel.style.justifyContent = 'center';
-mathPanel.style.minHeight = '100vh';
+  mathPanel.style.display = 'flex';
+  mathPanel.style.flexDirection = 'column';
+  mathPanel.style.alignItems = 'stretch';
+  mathPanel.style.justifyContent = 'flex-start';
+  mathPanel.style.minHeight = '100vh';
+  mathPanel.style.width = '100%';
 
 
   const topbar = document.createElement('div');

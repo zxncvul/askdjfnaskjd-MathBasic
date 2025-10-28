@@ -25,7 +25,7 @@ let lastQuestionDuration = 0;
 let questionStartTime = null;
 let liveTimerInterval = null;
 let responsiveListener = null;
-let isNarrowViewport = false;
+let isNarrowViewport = null;
 let currentQuestionRow = null;
 
 const isObjectItem = value => value !== null && typeof value === 'object';
@@ -151,11 +151,11 @@ function styleQuestionRow(row) {
   Object.assign(row.style, {
     display: 'flex',
     flexWrap: 'wrap',
-    justifyContent: isNarrowViewport ? 'flex-start' : 'space-between',
-    alignItems: isNarrowViewport ? 'flex-start' : 'center',
-    gap: isNarrowViewport ? '0.4rem' : '1rem',
+    justifyContent: 'flex-start',
+    alignItems: 'flex-start',
+    gap: isNarrowViewport ? '0.4rem' : '0.8rem',
     width: '100%',
-    margin: isNarrowViewport ? '0.2rem 0.2rem 0.5rem' : '0 auto 0.5rem',
+    margin: isNarrowViewport ? '0.2rem 0 0.5rem' : '0 0 0.5rem',
     padding: isNarrowViewport ? '0.2rem' : '0.4rem 0',
     color: '#28a746'
   });
@@ -172,59 +172,56 @@ function applyResponsiveLayout({ outer, exContainer, answeredList }) {
     Object.assign(outer.style, {
       display: 'flex',
       flexDirection: 'column',
-      justifyContent: 'space-between',
+      justifyContent: 'flex-start',
       alignItems: 'stretch',
       gap: '0.6rem',
-      minHeight: 'calc(100vh - 8rem)'
+      minHeight: 'calc(100vh - 8rem)',
+      padding: '6.5rem 0.75rem calc(12rem + 1rem)',
+      boxSizing: 'border-box'
     });
     Object.assign(exContainer.style, {
       position: 'relative',
-      top: 'auto',
-      left: 'auto',
-      right: 'auto',
-      margin: '0.3rem',
+      margin: '0',
       padding: '0.8rem',
-      width: 'auto',
-      boxSizing: 'border-box'
+      width: '100%',
+      boxSizing: 'border-box',
+      paddingBottom: '2rem'
     });
     Object.assign(answeredList.style, {
       position: 'relative',
-      top: 'auto',
-      left: 'auto',
-      right: 'auto',
-      margin: '0.3rem',
-      width: 'auto',
+      margin: '0',
+      width: '100%',
       maxHeight: '35vh',
       overflowY: 'auto'
     });
   } else {
     Object.assign(outer.style, {
-      display: 'block',
-      flexDirection: '',
-      justifyContent: '',
-      alignItems: '',
-      gap: '',
-      minHeight: ''
+      display: 'flex',
+      flexDirection: 'row',
+      justifyContent: 'flex-start',
+      alignItems: 'flex-start',
+      gap: '1.5rem',
+      flexWrap: 'wrap',
+      padding: '6.5rem 1.5rem calc(12rem + 1.5rem)',
+      boxSizing: 'border-box'
     });
     Object.assign(exContainer.style, {
-      position: 'fixed',
-      top: '7rem',
-      left: '1rem',
-      right: '1rem',
+      position: 'relative',
       margin: '0',
-      padding: '1em',
-      width: 'auto',
-      boxSizing: ''
+      padding: '1rem',
+      width: 'min(560px, calc(100vw - 14rem))',
+      maxWidth: 'min(560px, calc(100vw - 14rem))',
+      flex: '1 1 420px',
+      boxSizing: 'border-box',
+      paddingBottom: '6rem'
     });
     Object.assign(answeredList.style, {
-      position: 'fixed',
-      top: '10.5rem',
-      left: '4rem',
-      right: '1rem',
+      position: 'relative',
       margin: '0',
-      width: 'auto',
-      maxHeight: '',
-      overflowY: ''
+      width: 'min(260px, calc(100vw - 16rem))',
+      flex: '1 1 220px',
+      maxHeight: 'calc(100vh - 20rem)',
+      overflowY: 'auto'
     });
   }
   if (currentQuestionRow) styleQuestionRow(currentQuestionRow);
@@ -255,26 +252,32 @@ export function renderExercises(items, modes) {
   const term      = document.getElementById('numa-terminal');
   if (!term) return;
 
-  // Botón “Salir” para restaurar centrado y recargar
-    // Barra superior con cronómetro, contrarreloj y salir
+  const existingTopBar = document.querySelector('.numa-top-bar');
+  if (existingTopBar) existingTopBar.remove();
+
+  // Barra superior con cronómetro, contrarreloj y salir
   const topBar = document.createElement('div');
   topBar.className = 'numa-top-bar';
   Object.assign(topBar.style, {
     display: 'flex',
-    justifyContent: 'flex-end',
+    justifyContent: 'space-between',
     alignItems: 'center',
-    gap: '0.5rem',
-    position: 'absolute',
-    top: '8px',
-    right: '8px',
-    left: '8px',
-    zIndex: '1001'
+    gap: '1rem',
+    position: 'fixed',
+    top: '0',
+    left: '0',
+    right: '0',
+    padding: '0.5rem 1rem',
+    background: '#000',
+    borderBottom: '1px solid #28a746',
+    zIndex: '1100'
 
   });
 
   const timerWrapper = document.createElement('span');
   Object.assign(timerWrapper.style, {
     display: 'flex',
+    flexWrap: 'wrap',
     alignItems: 'center',
     gap: '0.5rem'
   });
@@ -288,16 +291,16 @@ export function renderExercises(items, modes) {
   exitBtn.textContent = 'X';
   exitBtn.className = 'exit-btn';
   Object.assign(exitBtn.style, {
-    width:        '24px',
-    height:       '24px',
-    lineHeight:   '24px',
+    minWidth:     '32px',
+    height:       '32px',
+    lineHeight:   '32px',
     textAlign:    'center',
     background:   'transparent',
-    border:       'none',
+    border:       '1px solid #ff0000',
     color:        '#ff0000',
     fontFamily:   'monospace',
-    fontSize:     '0.8rem',
-    borderRadius: '3px',
+    fontSize:     '0.9rem',
+    borderRadius: '6px',
     cursor:       'pointer'
   });
   exitBtn.onclick = () => {
@@ -355,6 +358,7 @@ export function renderExercises(items, modes) {
   if (mathPanel) mathPanel.style.justifyContent = 'flex-start';
   term.innerHTML = '';
   createNumericKeypad();
+  term.style.paddingBottom = '12rem';
 
   originalSequence = workingSequence.slice();
   sequence = workingSequence.slice();
@@ -378,21 +382,17 @@ export function renderExercises(items, modes) {
     position:  'relative',
     flex:      '1',
     width:     '100%',
-    alignSelf: 'stretch'
+    alignSelf: 'stretch',
+    boxSizing: 'border-box'
   });
   term.appendChild(outer);
 
   // Fijar historial y contenedor al tope
-  term.style.overflowY = 'hidden';
+  term.style.overflowY = 'auto';
 
   const answeredList = document.createElement('div');
   answeredList.className = 'answered-list';
   Object.assign(answeredList.style, {
-    position:   'fixed',
-    top:        '10.5rem',
-    left:       '4rem',
-    right:      '1rem',
-    zIndex:     '999',
     background: '#000'
   });
   outer.appendChild(answeredList);
@@ -400,15 +400,9 @@ export function renderExercises(items, modes) {
   const exContainer = document.createElement('div');
   exContainer.className = 'numa-output';
   Object.assign(exContainer.style, {
-    position:   'fixed',
-    top:        '7rem',
-    left:       '1rem',
-    right:      '1rem',
-    zIndex:     '1000',
     background: '#000',
     color:      '#28a746',
-    fontFamily: 'monospace',
-    padding:    '1em'
+    fontFamily: 'monospace'
   });
   outer.appendChild(exContainer);
 
